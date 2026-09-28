@@ -29,6 +29,17 @@ Chaque dossier présente une séquence de deux séances, des activités et quatr
 | A1 adaptable | [Les moyens de transport](projets/transports-a1/README.md) |
 | A1 adaptable | [Les parties du corps humain](projets/corps-humain-a1/README.md) |
 
+## Projets FLE des archives 2025
+
+Ces fiches restituent les scénarios et descriptions retrouvés dans nos échanges anciens ; elles précisent les éléments qui restent à documenter.
+
+| Projet | Portée des archives |
+| --- | --- |
+| [À la découverte d’une profession · 8e A2](projets/archives/profession-8e-a2/README.md) | Recherche en groupes, support et présentation |
+| [Ma profession et acheter/vendre · 9e A2](projets/archives/profession-achat-vente-9e-a2/README.md) | Consigne individuelle et productions attendues |
+| [Retour vers le futur · semaine culturelle](projets/archives/retour-vers-le-futur/README.md) | Ateliers conçus et pôle Disco |
+| [Ville et village · A2–B1](projets/archives/ville-village-a2-b1/README.md) | Présentation descriptive à compléter |
+
 ## Activités A1 par année
 
 | Année | Activité | Compétences |
