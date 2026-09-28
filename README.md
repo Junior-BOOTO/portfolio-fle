@@ -6,6 +6,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 - [Progression FLE au primaire · A1](progression-primaire-a1.md) : démarche PYP, 2e à 5e année, quatre compétences et différenciation.
 - [Progression FLE A1 à C1](progression-fle-a1-c1.md) : aperçu des tâches et critères observables par niveau.
+- [Planification PYP FLE · 1re année](planification-pyp-fle-1re-annee.md) : six unités et un exemple détaillé.
+- [Certifications et formations FLE](certifications-fle.md) : attestations vérifiées et domaines de pratique.
 
 ## Activités A1 par année
 
