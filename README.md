@@ -4,6 +4,7 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Programmes et progressions
 
+- [IB PYP French Programme · grades 2–5](ib-pyp-french-programme/README.md) : 24 unités proposées, objectifs CECRL A1 et évaluations distinctes des quatre compétences.
 - [Progression FLE au primaire · A1](progression-primaire-a1.md) : démarche PYP, 2e à 5e année, quatre compétences et différenciation.
 - [Progression FLE A1 à C1](progression-fle-a1-c1.md) : aperçu des tâches et critères observables par niveau.
 - [Planification PYP FLE · 1re année](planification-pyp-fle-1re-annee.md) : six unités et un exemple détaillé.
