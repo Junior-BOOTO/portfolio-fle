@@ -13,9 +13,21 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 - [Modèles d’assistants FLE Primary](gpts-pedagogiques/README.md) : coordinateur, Coach PYP Planning et spécialistes des niveaux 2 à 5.
 
-## Projet complet
+## Projets complets
 
-- [Les tâches ménagères · étude de cas FLE A1 en 3e année](projets/taches-menageres-3e-a1/README.md) : deux séances, supports d’activités et quatre évaluations distinctes avec corrigés et critères.
+Chaque dossier présente une séquence de deux séances, des activités et quatre évaluations distinctes avec corrigés et critères.
+
+| Année | Projet |
+| --- | --- |
+| 2e | [La maison et ses parties](projets/maison-2e-a1/README.md) |
+| 2e | [Les meubles de la maison](projets/meubles-maison-2e-a1/README.md) |
+| 3e | [Les tâches ménagères](projets/taches-menageres-3e-a1/README.md) |
+| 4e | [Les paysages naturels](projets/paysages-naturels-4e-a1/README.md) |
+| 5e | [Droits, devoirs et protection de la nature](projets/droits-devoirs-nature-5e-a1/README.md) |
+| A1 adaptable | [Le climat](projets/climat-a1/README.md) |
+| A1 adaptable | [Les lieux de la nature](projets/lieux-nature-a1/README.md) |
+| A1 adaptable | [Les moyens de transport](projets/transports-a1/README.md) |
+| A1 adaptable | [Les parties du corps humain](projets/corps-humain-a1/README.md) |
 
 ## Activités A1 par année
 
