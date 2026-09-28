@@ -9,6 +9,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 - [Planification PYP FLE · 1re année](planification-pyp-fle-1re-annee.md) : six unités et un exemple détaillé.
 - [Certifications et formations FLE](certifications-fle.md) : attestations vérifiées et domaines de pratique.
 
+## Assistants pédagogiques
+
+- [Modèles d’assistants FLE Primary](gpts-pedagogiques/README.md) : coordinateur, Coach PYP Planning et spécialistes des niveaux 2 à 5.
+
 ## Activités A1 par année
 
 | Année | Activité | Compétences |
