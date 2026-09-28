@@ -10,9 +10,8 @@ Attestations et badges transmis par Junior BOOTO, classés selon leur applicatio
 | Intelligence artificielle pour et par les enseignants | Inria, via France Université Numérique | 20 novembre 2024 | Usages et limites de l'IA en éducation. |
 | Education and Training Assessment Skills | Alison | 18 janvier 2025 | Évaluation en éducation et formation. |
 | Artificial Intelligence in Education and Learning | Alison | 18 janvier 2025 | Usage pédagogique de l'IA. |
+| Le potentiel de l’intelligence artificielle en FLE : par où commencer ? | IFprofs, conception Bhushan Thapliyal (Learning Vibes) | 28 septembre 2026 | Formation de trois heures sur les usages de l’IA en FLE. |
 
 Autres formations indiquées dans le CV professionnel : « Dyslexic Students in My Lecture Hall » (ENS de Lyon / FUN, 30 mars 2026) et « Learning to Read: From Decoding to Expert Reading » (Université Grenoble Alpes / FUN, 23 février 2026). Leurs attestations n'étaient pas jointes à ce lot.
-
-Une autre attestation IFprofs, « Le potentiel de l'intelligence artificielle (IA) en FLE : par où commencer ? », porte la date du 28 septembre 2026. Elle sera ajoutée après cette date.
 
 Les certificats originaux restent disponibles sur demande. Cette page évite d'exposer leurs identifiants ou données personnelles. Une formation PYP en cours n'est pas présentée comme une certification IB.
