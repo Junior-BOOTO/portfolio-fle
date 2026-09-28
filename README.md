@@ -13,6 +13,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 - [Modèles d’assistants FLE Primary](gpts-pedagogiques/README.md) : coordinateur, Coach PYP Planning et spécialistes des niveaux 2 à 5.
 
+## Projet complet
+
+- [Les tâches ménagères · étude de cas FLE A1 en 3e année](projets/taches-menageres-3e-a1/README.md) : deux séances, supports d’activités et quatre évaluations distinctes avec corrigés et critères.
+
 ## Activités A1 par année
 
 | Année | Activité | Compétences |
