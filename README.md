@@ -16,6 +16,14 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 | 4e | [Les paysages naturels](4e-paysages-naturels-a1.md) | Écouter, lire, parler, écrire |
 | 5e | [Droits, devoirs et écocitoyenneté](5e-ecocitoyennete-a1.md) | Écouter, lire, parler, écrire |
 
+## Autres activités A1 adaptables
+
+- [Le climat](climat-a1.md)
+- [Les lieux de la nature](lieux-de-la-nature-a1.md)
+- [Les moyens de transport](moyens-de-transport-a1.md)
+- [Les parties du corps humain](corps-humain-a1.md)
+- [Les parties de la maison](parties-de-la-maison-a1.md)
+
 ## Projets culturels
 
 - [Journée internationale de la Francophonie 2027](francophonie-2027.md) : proposition de demi-journée pour les grades 1 à 11.
