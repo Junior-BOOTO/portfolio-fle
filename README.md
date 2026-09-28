@@ -16,6 +16,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Projets complets
 
+- [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) : analyse reproductible de données fictives pour relier évaluation et différenciation.
+
 Chaque dossier présente une séquence de deux séances, des activités et quatre évaluations distinctes avec corrigés et critères.
 
 | Année | Projet |
