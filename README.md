@@ -17,6 +17,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Ingénierie pédagogique · études de cas
 
+- [Dans les baskets de… · la routine quotidienne](projets/routine-quotidienne/README.md) : cinq séances A1 avec prolongements A2, bande dessinée, interview, différenciation et évaluations des quatre compétences. Prototype à expérimenter.
+
 - [Mission Éco-école · FLE Learning Design Lab](projets/mission-eco-ecole/README.md) : prototype A1 pour le 4e grade, six séances, démarche ADDIE, supports différenciés, évaluations des quatre compétences et protocole de suivi. Expérimentation en classe à réaliser.
 
 ## Projets complets
