@@ -14,6 +14,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 - [Planification PYP FLE · 1re année](planification-pyp-fle-1re-annee.md) : six unités et un exemple détaillé.
 - [Certifications et formations FLE](certifications-fle.md) : attestations vérifiées et domaines de pratique.
 
+## Chatbot de prononciation
+
+- [Parlons ! · Prononciation Lab](projets/prononciation-lab/README.md) : prototype A1, neuf phrases, modèle vocal, répétition et aide guidée. Évaluation de la prononciation par l’enseignant ; fonctions audio à tester.
+
 ## Assistants pédagogiques
 
 - [FLE Learning Design · ingénierie pédagogique assistée par IA](fle-learning-design/README.md) : six assistants, protocole de coordination, démonstrateur Grade 3 et critères de validation.
