@@ -11,6 +11,8 @@ Bienvenue dans mon blog professionnel. J'y présente les choix de conception der
 | [Faire travailler les quatre compétences avec Mission Éco-école](articles/01-quatre-competences-fle.md) | Une tâche communicative A1, des aides différenciées et des preuves individuelles. |
 | [Construire une progression de français au primaire dans un contexte PYP](articles/02-progression-fle-pyp.md) | Le lien entre enquête, objectifs langagiers et évaluation. |
 
+| [De l’idée au jeu : concevoir une activité FLE pour des élèves allophones](articles/04-concevoir-jeu-fle-allophones.md) | Objectif communicatif, supports visuels, différenciation et vérification individuelle. |
+
 ## Python et analyse de données
 
 | Article | Ce que vous découvrirez |
