@@ -2,6 +2,10 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+## Blog professionnel
+
+[**Carnets de pratique · FLE et Python**](blog/README.md) : trois articles pour découvrir la démarche derrière mes projets, avec résumés en anglais et en espagnol.
+
 ## Programmes et progressions
 
 - [IB PYP French Programme · grades 2–5](ib-pyp-french-programme/README.md) : 24 unités proposées, objectifs CECRL A1 et évaluations distinctes des quatre compétences.
