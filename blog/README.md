@@ -10,8 +10,13 @@ Bienvenue dans mon blog professionnel. J'y présente les choix de conception der
 | --- | --- |
 | [Faire travailler les quatre compétences avec Mission Éco-école](articles/01-quatre-competences-fle.md) | Une tâche communicative A1, des aides différenciées et des preuves individuelles. |
 | [Construire une progression de français au primaire dans un contexte PYP](articles/02-progression-fle-pyp.md) | Le lien entre enquête, objectifs langagiers et évaluation. |
-
 | [De l’idée au jeu : concevoir une activité FLE pour des élèves allophones](articles/04-concevoir-jeu-fle-allophones.md) | Objectif communicatif, supports visuels, différenciation et vérification individuelle. |
+
+## Ingénierie pédagogique et IA
+
+| Article | Ce que vous découvrirez |
+| --- | --- |
+| [Concevoir des assistants GPT pour préparer et différencier les cours de FLE](articles/05-assistants-gpt-fle.md) | Six rôles complémentaires, un exemple Grade 3 et une validation par l’enseignant. |
 
 ## Python et analyse de données
 
