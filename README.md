@@ -15,6 +15,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 - [FLE Learning Design · ingénierie pédagogique assistée par IA](fle-learning-design/README.md) : six assistants, protocole de coordination, démonstrateur Grade 3 et critères de validation.
 - [Modèles d’assistants FLE Primary](gpts-pedagogiques/README.md) : coordinateur, Coach PYP Planning et spécialistes des niveaux 2 à 5.
 
+## Ingénierie pédagogique · études de cas
+
+- [Mission Éco-école · FLE Learning Design Lab](projets/mission-eco-ecole/README.md) : prototype A1 pour le 4e grade, six séances, démarche ADDIE, supports différenciés, évaluations des quatre compétences et protocole de suivi. Expérimentation en classe à réaliser.
+
 ## Projets complets
 
 - [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) : analyse reproductible de données fictives pour relier évaluation et différenciation.
