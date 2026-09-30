@@ -4,7 +4,7 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Blog professionnel
 
-[**Carnets de pratique · FLE et Python**](blog/README.md) : trois articles pour découvrir la démarche derrière mes projets, avec résumés en anglais et en espagnol.
+[**Carnets de pratique · FLE et Python**](blog/README.md) : quatre articles pour découvrir la démarche derrière mes projets, avec résumés en anglais et en espagnol.
 
 ## Programmes et progressions
 
