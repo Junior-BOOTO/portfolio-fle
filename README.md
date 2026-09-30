@@ -17,6 +17,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Ingénierie pédagogique · études de cas
 
+- [Mission Verbes · apprendre la conjugaison en jouant](projets/mission-verbes-a1/README.md) : projet A1 sur les verbes réguliers du premier groupe au présent, trois séances, douze cartes-défis avec corrigés, différenciation et évaluations individuelles. Prototype à expérimenter.
+
 - [Mission Mobilité · choisir son moyen de transport](projets/mission-mobilite-a2/README.md) : projet A2 au secondaire, cinq séances, enquête documentaire, comparaison d’options, conseil argumenté et évaluations individuelles des quatre compétences. Prototype à expérimenter.
 
 - [Dans les baskets de… · la routine quotidienne](projets/routine-quotidienne/README.md) : cinq séances A1 avec prolongements A2, bande dessinée, interview, différenciation et évaluations des quatre compétences. Prototype à expérimenter.
