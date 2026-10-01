@@ -35,6 +35,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 - [Mission Éco-école · FLE Learning Design Lab](projets/mission-eco-ecole/README.md) : prototype A1 pour le 4e grade, six séances, démarche ADDIE, supports différenciés, évaluations des quatre compétences et protocole de suivi. Expérimentation en classe à réaliser.
 
+## Programmation annuelle PYP 2027
+
+- [45 projets FLE · grades 1 à 5](projets/programmation-annuelle-pyp-2027/README.md) : neuf projets par grade, trois par trimestre, matrice annuelle, guides enseignants, fiches élèves, évaluations individuelles des quatre compétences et kits PDF/Word. Statut : projets conçus, à expérimenter en classe.
+
 ## Projets complets
 
 - [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) : analyse reproductible de données fictives pour relier évaluation et différenciation.
