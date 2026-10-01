@@ -11,12 +11,18 @@ Application HTML et JavaScript, sans clé API ni compte. La synthèse vocale fou
 
 **La transcription ne mesure pas la qualité phonétique.** Aucun score, diagnostic de son ou niveau CECRL automatique. Une erreur de reconnaissance peut venir du navigateur, du bruit ou du micro. Une voix de synthèse n’est pas un enregistrement humain contrôlé.
 
+## Utiliser en ligne
+
+[**Ouvrir Parlons !**](https://parlons-fle-junior-booto.juniorbooto.chatgpt.site)
+
+Accès public par navigateur, sans installation de Python. Choisir un entraînement, écouter, puis activer le microphone si son usage est autorisé. Les fonctions vocales dépendent du navigateur et doivent être testées sur les appareils utilisés.
+
 ## Démarrer sur ordinateur
 Télécharger ce dossier en conservant index.html et app.js ensemble. Avec Python installé, lancer depuis ce dossier :
 ```bash
 python -m http.server 8000
 ```
-Ouvrir http://localhost:8000 dans le navigateur. Pour un accès partagé, héberger sur HTTPS. La présence de l’API et du service vocal dépend du navigateur : tester les appareils de l’école. Ce dépôt ne configure pas encore d’hébergement public.
+Ouvrir http://localhost:8000 dans le navigateur. Pour un accès partagé, héberger sur HTTPS. La présence de l’API et du service vocal dépend du navigateur : tester les appareils de l’école. Une version publique est maintenant disponible au lien indiqué ci-dessus.
 
 ## Utiliser en classe
 Ouverture, classe entière : écouter « Bonjour ! », recueillir les mots connus et annoncer que l’on va travailler l’intelligibilité.
