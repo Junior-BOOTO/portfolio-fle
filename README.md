@@ -20,6 +20,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Assistants pédagogiques
 
+- [Quatre nouveaux GPTs · différenciation, évaluation, documentation et prompts](gpts-pedagogiques/nouveaux-assistants/README.md) : instructions complètes, exemples de demandes, guide, protocole d’expérimentation et atelier pour collègues. Prototypes à expérimenter.
+
 - [FLE Learning Design · ingénierie pédagogique assistée par IA](fle-learning-design/README.md) : six assistants, protocole de coordination, démonstrateur Grade 3 et critères de validation.
 - [Modèles d’assistants FLE Primary](gpts-pedagogiques/README.md) : coordinateur, Coach PYP Planning et spécialistes des niveaux 2 à 5.
 
