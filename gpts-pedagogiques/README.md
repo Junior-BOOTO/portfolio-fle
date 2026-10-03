@@ -35,3 +35,7 @@ Spécialiste de l’alignement pédagogique avec le Programme primaire de l’IB
 Les modèles ne contiennent ni données d’élèves, ni identifiants, ni documents internes d’établissement. Toute mise en pratique doit s’appuyer sur les planifications autorisées et être relue par l’enseignant. Les références d’images et de textes sont à vérifier avant diffusion.
 
 Pour voir des exemples de ressources publiées : [portfolio FLE](../README.md) et [progressions FLE A1 à C1](https://github.com/Junior-BOOTO/cours-prives-fle).
+
+## Atelier de fiches pédagogiques
+
+- [Atelier FLE — Fiches enseignant & apprenant](atelier-fle/README.md) : instructions de configuration, exemples de demandes et démonstration « La routine » A1, avec différenciation, corrigés et critères de réussite.
