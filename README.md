@@ -20,6 +20,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Assistants pédagogiques
 
+- [Atelier FLE — Fiches enseignant & apprenant](gpts-pedagogiques/atelier-fle/README.md) : instructions de configuration, exemples de demandes et démonstration « La routine » A1, avec différenciation, corrigés et critères de réussite.
+
 - [Quatre nouveaux GPTs · différenciation, évaluation, documentation et prompts](gpts-pedagogiques/nouveaux-assistants/README.md) : instructions complètes, exemples de demandes, guide, protocole d’expérimentation et atelier pour collègues. Prototypes à expérimenter.
 
 - [FLE Learning Design · ingénierie pédagogique assistée par IA](fle-learning-design/README.md) : six assistants, protocole de coordination, démonstrateur Grade 3 et critères de validation.
