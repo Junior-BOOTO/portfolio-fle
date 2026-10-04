@@ -12,6 +12,10 @@ Bienvenue dans mon blog professionnel. J'y présente les choix de conception der
 | [Construire une progression de français au primaire dans un contexte PYP](articles/02-progression-fle-pyp.md) | Le lien entre enquête, objectifs langagiers et évaluation. |
 | [De l’idée au jeu : concevoir une activité FLE pour des élèves allophones](articles/04-concevoir-jeu-fle-allophones.md) | Objectif communicatif, supports visuels, différenciation et vérification individuelle. |
 
+## Projet phare
+
+[**De ma classe à un écosystème de GPTs**](articles/06-ecosysteme-fle-ia.md) : projet ÉCOSYSTÈME FLE–IA, publié le 4 octobre 2026. GPTs créés et certains déjà utilisés ; documentation des usages en cours.
+
 ## Ingénierie pédagogique et IA
 
 | Article | Ce que vous découvrirez |
