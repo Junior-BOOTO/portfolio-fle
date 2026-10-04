@@ -2,9 +2,15 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+## Projet phare · ÉCOSYSTÈME FLE–IA
+
+[**Découvrir mon écosystème de GPTs pour le FLE**](projets/ecosysteme-fle-ia/README.md) : assistants créés, certains déjà utilisés, conception pédagogique, différenciation, ressources multimédias et documentation des usages.
+
+[Lire l’article de présentation](blog/articles/06-ecosysteme-fle-ia.md).
+
 ## Blog professionnel
 
-[**Carnets de pratique · FLE et Python**](blog/README.md) : cinq articles pour découvrir la démarche derrière mes projets, avec résumés en anglais et en espagnol.
+[**Carnets de pratique · FLE et Python**](blog/README.md) : six articles pour découvrir la démarche derrière mes projets, avec résumés en anglais et en espagnol.
 
 ## Programmes et progressions
 
