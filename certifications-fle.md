@@ -15,6 +15,10 @@ Attestations et badges transmis par Junior BOOTO, classés selon leur applicatio
 | L’art de la fiche pédagogique : méthodes et pratiques | IFprofs ; conception Adeline GAUDEL (Learning Vibes) | 3 octobre 2026 | Attestation de réussite, 2 heures. |
 | Enseigner une grammaire dynamique, créative et sensible | IFprofs ; conception Candy Raluy (Formations FLE) | 3 octobre 2026 | Attestation de réussite, 3 heures. |
 
+| Le français de la classe #2 : supports, organisation du travail et vie de classe | IFprofs ; conception Adeline Gaudel (Learning Vibes) | 7 octobre 2026 | Attestation de réussite, 4 heures. |
+| Le français de la classe #1 : routines, consignes et activités | IFprofs ; conception Adeline Gaudel (Learning Vibes) | 7 octobre 2026 | Attestation de réussite, 4 heures. |
+| Parler et interagir : les clés pour favoriser l’oral en classe | IFprofs ; conception Alice Reboul | 6 octobre 2026 | Attestation de réussite, 4 heures. |
+
 Autres formations indiquées dans le CV professionnel : « Dyslexic Students in My Lecture Hall » (ENS de Lyon / FUN, 30 mars 2026) et « Learning to Read: From Decoding to Expert Reading » (Université Grenoble Alpes / FUN, 23 février 2026). Leurs attestations n'étaient pas jointes à ce lot.
 
 Les certificats originaux restent disponibles sur demande. Cette page évite d'exposer leurs identifiants ou données personnelles. Une formation PYP en cours n'est pas présentée comme une certification IB.
@@ -26,3 +30,13 @@ Ces trois formations courtes complètent mon parcours de professeur de FLE et de
 - **Approche neurolinguistique :** les notions abordées offrent un cadre supplémentaire pour réfléchir à l’articulation entre communication orale, apprentissage de la langue et activités de classe. Je souhaite les mettre en dialogue avec mes séquences A1, sans présenter comme acquis des résultats d’expérimentation qui restent à documenter.
 - **Fiches pédagogiques :** cette formation rejoint mon travail sur des supports enseignant et apprenant structurés autour d’objectifs, de consignes accessibles et de critères de réussite observables. Elle nourrit la réflexion sur la cohérence entre planification et supports imprimables.
 - **Grammaire dynamique, créative et sensible :** cette formation ouvre des pistes pour renouveler les activités grammaticales et les relier à des usages de la langue. Son apport sera documenté à travers des exemples de tâches et une réflexion sur les adaptations proposées aux débutants.
+
+## Français de la classe et interaction orale
+
+Ces trois attestations de réussite représentent **12 heures de formation continue** les 6 et 7 octobre 2026. Elles complètent mon travail de conception de fiches enseignant et apprenant.
+
+- **Routines, consignes et activités :** cette formation nourrit ma réflexion sur un français de classe clair et réutilisable. Une piste pour mes ressources est d’associer chaque activité à une consigne courte et à une routine qui aide les apprenants à comprendre ce qu’ils doivent faire.
+- **Supports, organisation du travail et vie de classe :** son intérêt pour mon portfolio est de relier les supports à leur utilisation concrète : matériel nécessaire, étapes du travail et organisation des échanges. Je souhaite rendre ces choix visibles dans les fiches enseignant.
+- **Parler et interagir :** cette formation ouvre des pistes pour donner davantage de place aux échanges entre apprenants. Dans mes prochaines fiches, je souhaite expliciter la tâche orale, les aides linguistiques et les critères de réussite.
+
+Ces commentaires décrivent l’apport envisagé de ces formations ; les exemples de mise en œuvre et leurs résultats seront documentés dans les ressources pédagogiques du portfolio.
