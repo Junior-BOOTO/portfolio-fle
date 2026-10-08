@@ -4,7 +4,7 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Formation continue · Phonétique corrective FLE
 
-- [**Collection de 13 kits de phonétique corrective FLE**](projets/collection-phonetique-fle/README.md) : formation des enseignants, rythme, intonation, sons, remédiation, interaction orale et évaluation A1–A2. Catalogue disponible ; PDF et Word à transférer.
+- [**Collection de 13 kits de phonétique corrective FLE**](projets/collection-phonetique-fle/README.md) : formation des enseignants, rythme, intonation, sons, remédiation, interaction orale et évaluation A1–A2. [PDF intégral de la collection (13 kits)](Collection_13_Kits_Phonetique_Corrective_FLE_Junior_BOOTO.pdf) disponible ; fichiers individuels PDF/Word à transférer.
 
 ## Projet phare · ÉCOSYSTÈME FLE–IA
 
