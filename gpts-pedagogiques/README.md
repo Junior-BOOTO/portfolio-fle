@@ -39,3 +39,7 @@ Pour voir des exemples de ressources publiées : [portfolio FLE](../README.md) e
 ## Atelier de fiches pédagogiques
 
 - [Atelier FLE — Fiches enseignant & apprenant](atelier-fle/README.md) : instructions de configuration, exemples de demandes et démonstration « La routine » A1, avec différenciation, corrigés et critères de réussite.
+
+## Studio de présentations
+
+- [Studio FLE PRO | Design & Ingénierie pédagogique](studio-fle-pro/README.md) : vitrine du projet, demandes réutilisables et démonstration PowerPoint « La routine quotidienne » (18 diapositives, Grade 4 A1).

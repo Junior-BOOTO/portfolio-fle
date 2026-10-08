@@ -30,6 +30,8 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Assistants pédagogiques
 
+- [Studio FLE PRO | Design & Ingénierie pédagogique](gpts-pedagogiques/studio-fle-pro/README.md) : présentation du projet, exemples de demandes et PowerPoint de 18 diapositives « La routine quotidienne », Grade 4 A1.
+
 - [Atelier FLE — Fiches enseignant & apprenant](gpts-pedagogiques/atelier-fle/README.md) : instructions de configuration, exemples de demandes et démonstration « La routine » A1, avec différenciation, corrigés et critères de réussite.
 
 - [Quatre nouveaux GPTs · différenciation, évaluation, documentation et prompts](gpts-pedagogiques/nouveaux-assistants/README.md) : instructions complètes, exemples de demandes, guide, protocole d’expérimentation et atelier pour collègues. Prototypes à expérimenter.
