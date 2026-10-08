@@ -11,6 +11,7 @@ Attestations et badges transmis par Junior BOOTO, classés selon leur applicatio
 | Education and Training Assessment Skills | Alison | 18 janvier 2025 | Évaluation en éducation et formation. |
 | Artificial Intelligence in Education and Learning | Alison | 18 janvier 2025 | Usage pédagogique de l'IA. |
 | Le potentiel de l’intelligence artificielle en FLE : par où commencer ? | IFprofs, conception Bhushan Thapliyal (Learning Vibes) | 28 septembre 2026 | Formation de trois heures sur les usages de l’IA en FLE. |
+| Découverte de la correction phonétique : stratégies pour le FLE | IFprofs ; conception Laure Fesquet et Sébastien Palusci (Fonetix) | 8 octobre 2026 | Attestation de réussite, 3 heures ; correction phonétique et intelligibilité de l’oral. |
 | Premiers pas en ANL, approche neurolinguistique : notions essentielles pour l’enseignement du FLE | IFprofs ; conception Inès Ricordel et Vi-Tri Truong (ANL Formation) | 5 octobre 2026 | Attestation de réussite, 3 heures. |
 | L’art de la fiche pédagogique : méthodes et pratiques | IFprofs ; conception Adeline GAUDEL (Learning Vibes) | 3 octobre 2026 | Attestation de réussite, 2 heures. |
 | Enseigner une grammaire dynamique, créative et sensible | IFprofs ; conception Candy Raluy (Formations FLE) | 3 octobre 2026 | Attestation de réussite, 3 heures. |
@@ -40,3 +41,11 @@ Ces trois attestations de réussite représentent **12 heures de formation conti
 - **Parler et interagir :** cette formation ouvre des pistes pour donner davantage de place aux échanges entre apprenants. Dans mes prochaines fiches, je souhaite expliciter la tâche orale, les aides linguistiques et les critères de réussite.
 
 Ces commentaires décrivent l’apport envisagé de ces formations ; les exemples de mise en œuvre et leurs résultats seront documentés dans les ressources pédagogiques du portfolio.
+
+## Correction phonétique : formation et mise en pratique
+
+Le 8 octobre 2026, j’ai réussi la formation de 3 heures **« Découverte de la correction phonétique : stratégies pour le FLE »**, proposée sur **IFprofs** et conçue par **Laure Fesquet et Sébastien Palusci (Fonetix)**. Cette initiation soutient ma réflexion sur le rythme, l’intonation, la perception phonologique et l’intelligibilité des productions orales.
+
+**Application dans mon portfolio :** [collection de 13 kits de phonétique corrective FLE](projets/collection-phonetique-fle/README.md), avec fiches de formation et activités A1–A2. Ces kits sont des productions pédagogiques distinctes de l’attestation, dont l’obtention ne constitue pas à elle seule une qualification d’expert en méthode verbo-tonale.
+
+**Attestation originale :** fichier PDF fourni et vérifié ; son transfert vers le dépôt GitHub reste à faire.
