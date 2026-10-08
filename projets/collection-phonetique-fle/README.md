@@ -6,11 +6,15 @@ Auteur et conception pédagogique : **Junior BOOTO WABA**.
 
 Cette collection propose une progression allant du rythme et de l'intonation à la perception phonologique, à la remédiation, à l'interaction et à l'évaluation de l'oral. L'objectif prioritaire est l'**intelligibilité** et la **compréhensibilité** : le but n'est pas d'effacer l'accent des apprenants.
 
-**Statut :** catalogue pédagogique publié. Les fichiers PDF/Word sont préparés, mais leur dépôt binaire sur GitHub reste à effectuer. Les scripts audio sont des textes à enregistrer, non des fichiers sonores.
+**Statut :** catalogue publié et [PDF intégral des 13 kits disponible](../../Collection_13_Kits_Phonetique_Corrective_FLE_Junior_BOOTO.pdf). Les PDF et Word individuels ne sont pas encore déposés. Les scripts audio restent des textes à enregistrer, non des fichiers sonores.
 
 ## Formation suivie
 
 **Attestation de réussite — 8 octobre 2026 :** « Découverte de la correction phonétique : stratégies pour le FLE » (IFprofs, 3 heures ; conception Laure Fesquet et Sébastien Palusci, Fonetix). [Consulter l'entrée dans mes certifications](../../certifications-fle.md). Le PDF original de l'attestation n'est pas encore hébergé dans ce dépôt.
+
+## Télécharger l'ouvrage complet
+
+📘 **[Consulter ou télécharger la collection complète de phonétique corrective FLE (PDF)](../../Collection_13_Kits_Phonetique_Corrective_FLE_Junior_BOOTO.pdf)** — 13 kits réunis dans un seul ouvrage.
 
 ## Explorer les kits
 
