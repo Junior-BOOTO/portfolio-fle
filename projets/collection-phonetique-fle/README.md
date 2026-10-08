@@ -8,6 +8,10 @@ Cette collection propose une progression allant du rythme et de l'intonation à 
 
 **Statut :** catalogue pédagogique publié. Les fichiers PDF/Word sont préparés, mais leur dépôt binaire sur GitHub reste à effectuer. Les scripts audio sont des textes à enregistrer, non des fichiers sonores.
 
+## Formation suivie
+
+**Attestation de réussite — 8 octobre 2026 :** « Découverte de la correction phonétique : stratégies pour le FLE » (IFprofs, 3 heures ; conception Laure Fesquet et Sébastien Palusci, Fonetix). [Consulter l'entrée dans mes certifications](../../certifications-fle.md). Le PDF original de l'attestation n'est pas encore hébergé dans ce dépôt.
+
 ## Explorer les kits
 
 - [Kit 01 — Rythme et accentuation](kit-01/README.md)
