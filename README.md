@@ -18,6 +18,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
 
+## Bibliothèque de références
+
+[Français A1–C2 et préparation IELTS](bibliotheque/README.md) : douze titres français et quatre ouvrages IELTS, avec objectifs de lecture et liens officiels. [Sélection sur mon site](https://junior-booto-fle.juniorbooto.chatgpt.site/bibliographie-langues.html).
+
 ## Explorer selon votre besoin
 
 | Besoin | Ressources |
