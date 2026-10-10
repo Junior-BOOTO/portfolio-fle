@@ -3,7 +3,7 @@
 
 Je conçois des activités où les apprenants utilisent le français pour accomplir une tâche. Les ressources explicitent les objectifs, les aides, les modalités d’interaction et les preuves attendues.
 
-[Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
+[Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
 ## Commencer par quatre réalisations
 
@@ -41,4 +41,4 @@ Les dossiers d’assistants publient une documentation et parfois un exemple de 
 3. Consigner les observations de classe dans un espace approprié ; publier uniquement des exemples fictifs ou des contenus autorisés.
 4. Vérifier les droits de chaque ressource avant réutilisation : aucune licence générale n’est actuellement définie.
 
-[Modèle de README FLE](templates/README-FLE.md) · [Modèle pour un GPT](templates/README-GPT.md) · [Organisation et audit](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/docs/audit-portfolio-2026-10-08.md)
+[Retour d’expérimentation en classe](templates/retour-experimentation-classe.md) · [Conditions de réutilisation](REUTILISATION.md) · [Modèle de README FLE](templates/README-FLE.md) · [Modèle pour un GPT](templates/README-GPT.md) · [Organisation et audit](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/docs/audit-portfolio-2026-10-08.md)
