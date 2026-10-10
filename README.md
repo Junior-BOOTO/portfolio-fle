@@ -14,6 +14,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 | [Paysages naturels · 4e année A1](projets/paysages-naturels-4e-a1/README.md) | Description en binômes et quatre évaluations distinctes avec corrigés. | Séquence conçue ; résultats de classe non documentés. |
 | [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Passage de scores fictifs à une interprétation pédagogique avec Python. | Démonstrateur sur données synthétiques. |
 
+## Collection de projets différenciés
+
+[**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
+
 ## Explorer selon votre besoin
 
 | Besoin | Ressources |

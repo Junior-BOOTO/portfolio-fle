@@ -2,6 +2,10 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+## Collection de projets différenciés
+
+[**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
+
 ## Formation continue · Phonétique corrective FLE
 
 - [**Collection de 13 kits de phonétique corrective FLE**](projets/collection-phonetique-fle/README.md) : formation des enseignants, rythme, intonation, sons, remédiation, interaction orale et évaluation A1–A2. [PDF intégral de la collection (13 kits)](Collection_13_Kits_Phonetique_Corrective_FLE_Junior_BOOTO.pdf) disponible ; fichiers individuels PDF/Word à transférer.
