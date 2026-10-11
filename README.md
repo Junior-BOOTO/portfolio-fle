@@ -20,7 +20,7 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## Bibliothèque de références
 
-[Français A1–C2 et préparation IELTS](bibliotheque/README.md) : douze titres français et quatre ouvrages IELTS, avec objectifs de lecture et liens officiels. [Sélection sur mon site](https://junior-booto-fle.juniorbooto.chatgpt.site/bibliographie-langues.html).
+[Français A1–C2 et préparation IELTS](bibliotheque/README.md) : douze titres français et douze ouvrages IELTS, avec objectifs de lecture et liens officiels. [Sélection sur mon site](https://junior-booto-fle.juniorbooto.chatgpt.site/bibliographie-langues.html).
 
 ## Explorer selon votre besoin
 

@@ -1,10 +1,10 @@
 # Bibliothèque de références — Français A1–C2 et IELTS
 
-**Junior BOOTO Waba · Sélection du 10 octobre 2026**
+**Junior BOOTO Waba · Sélection du 11 octobre 2026**
 
 [Consulter la même sélection sur mon site](https://junior-booto-fle.juniorbooto.chatgpt.site/bibliographie-langues.html) · [Retour au portfolio](../README.md)
 
-Douze titres français et quatre ouvrages IELTS, issus de ma collection personnelle. Cette bibliographie présente des objectifs de lecture ; elle ne signifie pas que chaque livre a été intégralement étudié. Les notices et liens officiels sont publiés ; les fichiers privés des livres ne sont pas redistribués.
+Douze titres français et douze ouvrages IELTS, issus de ma collection personnelle. Cette bibliographie présente des objectifs de lecture ; elle ne signifie pas que chaque livre a été intégralement étudié. Les notices et liens officiels sont publiés ; les fichiers privés des livres ne sont pas redistribués.
 
 ## Choisir un parcours français
 
@@ -155,7 +155,7 @@ Complément proposé pour C2 ; ouvrage de grammaire générale sans classement C
 
 ## Préparation IELTS par compétence
 
-Quatre ouvrages, un par compétence. Aucun niveau CECRL ni score cible n’est attribué sans indication vérifiée. Certaines explications sont en bengali ; les fichiers audio associés au Listening restent à vérifier.
+Douze ouvrages pour les quatre compétences, le vocabulaire et la préparation générale. Aucun niveau CECRL ni score cible n’est attribué sans indication vérifiée. Certaines explications sont en bengali ; les fichiers audio associés au Listening restent à vérifier.
 
 [Exemples officiels IELTS](https://ielts.org/take-a-test/preparation-resources/sample-test-questions)
 
@@ -199,3 +199,88 @@ Analyser une consigne, planifier une réponse et réviser organisation et préci
 
 [Site officiel ou fiche de référence](https://mentors.com.bd/courses/ielts)
 
+### IELTS Speaking — guide fourni
+
+**Auteur non identifié** · IELTS Quest — provenance indiquée
+
+**Compétences :** Speaking
+
+Préparer les trois parties de l’oral et analyser fluidité, cohérence, vocabulaire, grammaire et prononciation.
+
+Titre descriptif du fichier fourni ; auteur et date non identifiés. La mention d’un service commercial ne constitue pas une recommandation.
+
+### IELTS UP — Task 2 Writing
+
+**Adam W. Cann** · Éditeur non identifié · 2020
+
+**Compétences :** Writing
+
+Organiser une argumentation, planifier une réponse et réviser les productions de Writing Task 2.
+
+Édition 2020. Objectif 6+ annoncé par l’auteur ; aucun score n’est garanti.
+
+### IELTS Writing — Band 9 Essays
+
+**Dr Bruce A. Smart** · Yasi Learning
+
+**Compétences :** Writing
+
+Analyser quarante modèles de dissertations et leurs commentaires pour construire ses propres réponses.
+
+Ressource indépendante, non affiliée à IELTS. « Band 9 » appartient au titre et ne garantit aucun résultat.
+
+### The Official Cambridge Guide to IELTS — For Academic & General Training
+
+**Pauline Cullen, Amanda French et Vanessa Jakeman** · Cambridge University Press
+
+**Compétences :** Speaking / Listening / Reading / Writing / Général
+
+Structurer une préparation des quatre compétences, puis utiliser les entraînements et tests pour repérer ses besoins.
+
+ISBN du document : 9781107620698. Audios et vidéos associés non vérifiés ; adapter les exercices au module choisi.
+
+[Site officiel ou extrait de référence](https://www.cambridge.es/en/catalogue/exams/courses/the-official-cambridge-guide-to-ielts)
+
+### IELTS Band 9 Vocab Secrets
+
+**Jessica Alperne et Peter Swires** · Cambridge IELTS Consultants · 2014
+
+**Compétences :** Vocabulaire / Writing / Speaking
+
+Organiser le lexique de dix thèmes et le réemployer dans des réponses orales et écrites originales.
+
+Éditeur indépendant, distinct de Cambridge University Press. « Band 9 » appartient au titre et ne garantit aucun résultat.
+
+### Mastering the IELTS Test: A Comprehensive Guide to Test Success
+
+**Auteur non identifié** · Éditeur non identifié
+
+**Compétences :** Général / Speaking / Listening / Reading / Writing
+
+Repérer les types de tâches, organiser un programme de révision et relier grammaire et vocabulaire aux quatre compétences.
+
+Auteur, éditeur et date non identifiés. Vérifier les indications de format et de notation auprès des organismes officiels.
+
+### Cambridge Vocabulary for IELTS Advanced with Answers
+
+**Pauline Cullen** · Cambridge University Press
+
+**Compétences :** Vocabulaire
+
+Enrichir le lexique thématique et le réemployer dans les activités de compréhension et de production.
+
+Référence confirmée par l’éditeur, ISBN 9780521179225 ; fichier scanné. Public cible annoncé : Band 6.5+, sans garantie de résultat. Audio associé non vérifié.
+
+[Site officiel ou extrait de référence](https://assets.cambridge.org/97805211/79225/frontmatter/9780521179225_frontmatter.pdf)
+
+### Check Your English Vocabulary for IELTS
+
+**Rawdon Wyatt** · Bloomsbury Information
+
+**Compétences :** Vocabulaire / Speaking / Writing
+
+Consolider les mots et expressions par thème, puis les réutiliser dans des tâches orales et écrites.
+
+Academic et General Training. Le lien éditeur présente une édition actuelle ; la date du fichier fourni n’est pas établie.
+
+[Site officiel ou extrait de référence](https://www.bloomsbury.com/us/check-your-english-vocabulary-for-ielts-9781472947376/)
