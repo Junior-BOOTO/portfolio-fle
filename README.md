@@ -22,6 +22,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [**Au marché · jeux de rôle A1**](projets/le-francais-en-action-marche/README.md) : trois situations progressives, douze cartes produits, aides graduées et évaluation individuelle. Pack de 10 pages. Projet conçu, à expérimenter.
 
+## Du premier essai au progrès
+
+[**Décrire un paysage · diagnostic et évaluation A1**](projets/du-premier-essai-au-progres/README.md) : deux tâches comparables, aides différenciées, critères explicites et carnet de preuves vierge. Pack de 10 pages. Dispositif conçu, résultats à documenter après expérimentation.
+
 ## Collection de projets différenciés
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
