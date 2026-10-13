@@ -26,6 +26,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [**Décrire un paysage · diagnostic et évaluation A1**](projets/du-premier-essai-au-progres/README.md) : deux tâches comparables, aides différenciées, critères explicites et carnet de preuves vierge. Pack de 10 pages. Dispositif conçu, résultats à documenter après expérimentation.
 
+## Parlons français !
+
+[**Contraste u / ou · atelier A1**](projets/parlons-francais-u-ou/README.md) : perception, production, cartes-mots et scripts d’écoute. Pack de 8 pages et lecture synthétique en ligne selon l’appareil. Projet conçu, à expérimenter.
+
 ## Collection de projets différenciés
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
