@@ -34,6 +34,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [**Projet citoyen A1-A2**](projets/ma-ville-ecoresponsable/README.md) : maquette, affiches, aides graduées et présentation individuelle. Trois séances et pack de 7 pages. Projet conçu, à expérimenter.
 
+## La différenciation en pratique
+
+[**Module de formation enseignants · 60 minutes**](projets/la-differenciation-en-pratique/README.md) : exemple avant/après, aides graduées, canevas, test croisé et suivi. Pack de 7 pages. Module conçu, à expérimenter.
+
 ## Collection de projets différenciés
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
