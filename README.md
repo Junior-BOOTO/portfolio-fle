@@ -30,6 +30,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [**Contraste u / ou · atelier A1**](projets/parlons-francais-u-ou/README.md) : perception, production, cartes-mots et scripts d’écoute. Pack de 8 pages et lecture synthétique en ligne selon l’appareil. Projet conçu, à expérimenter.
 
+## Ma ville écoresponsable
+
+[**Projet citoyen A1-A2**](projets/ma-ville-ecoresponsable/README.md) : maquette, affiches, aides graduées et présentation individuelle. Trois séances et pack de 7 pages. Projet conçu, à expérimenter.
+
 ## Collection de projets différenciés
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
