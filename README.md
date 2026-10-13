@@ -18,6 +18,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [**Ma maison écoresponsable · A1**](projets/ma-maison-ecoresponsable/README.md) : pack illustré de 10 pages, trois fiches différenciées, douze cartes, jeu de rôle et évaluation individuelle. Deux séances de 45 minutes. Projet conçu, à expérimenter.
 
+## Le français en action
+
+[**Au marché · jeux de rôle A1**](projets/le-francais-en-action-marche/README.md) : trois situations progressives, douze cartes produits, aides graduées et évaluation individuelle. Pack de 10 pages. Projet conçu, à expérimenter.
+
 ## Collection de projets différenciés
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
