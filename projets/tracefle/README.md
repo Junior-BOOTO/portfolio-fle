@@ -17,7 +17,7 @@ Cette version est une **maquette de concept**, pas encore un système d’IA. L�
 
 ## Lancer la maquette
 
-Ouvre `index.html` dans un navigateur récent. La page est autonome : elle n’utilise pas de dépendances ni de ressources distantes.
+Télécharge les trois fichiers du dossier (`index.html`, `style.css` et `app.js`) dans le même répertoire, puis ouvre `index.html` dans un navigateur récent. Aucun paquet ni service externe n’est requis.
 
 ## Hypothèse d’innovation
 
@@ -42,5 +42,3 @@ Cette orientation est une hypothèse de conception à éprouver. Ce dépôt ne p
 ## Démonstration
 
 Prototype hébergé : [TraceFLE — démonstrateur](https://tracefle-junior-booto.juniorbooto.chatgpt.site)
-
-Le démonstrateur est actuellement séparé du portfolio principal. Son statut et ses limites doivent rester visibles lors de toute présentation publique.
