@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8f5">
+  <title>TraceFLE — Le fil des apprentissages</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand"><div class="mark">T</div><div><strong>TraceFLE</strong><small>Le fil des apprentissages</small></div></div>
+      <div class="nav-label">Espace pédagogique</div>
+      <nav class="nav" aria-label="Navigation principale">
+        <button class="active" data-page="Vue d’ensemble"><span>▦</span>Vue d’ensemble</button>
+        <button data-page="Mes élèves"><span>♧</span>Mes élèves</button>
+        <button data-page="Objectifs Je peux"><span>◎</span>Objectifs « Je peux »</button>
+        <button data-page="Séquences"><span>▤</span>Séquences</button>
+      </nav>
+      <div class="nav-label" style="margin-top:26px">Mon espace</div>
+      <nav class="nav"><button data-page="Préférences"><span>⚙</span>Préférences</button></nav>
+      <div class="sidebar-bottom"><span class="demo-pill"><i class="dot"></i>MAQUETTE DE DÉMONSTRATION</span><p>TraceFLE rend visibles les indices de progression pour aider à choisir la prochaine étape.</p></div>
+    </aside>
+    <main class="main">
+      <div class="topbar"><div style="display:flex;align-items:center;gap:11px"><button class="mobile-menu" id="menuBtn" aria-label="Ouvrir le menu">☰</button><div class="crumb">Espace enseignant <span style="color:#b8c2bc"> / </span> Vue d’ensemble</div></div><div class="teacher"><div class="avatar">JB</div><div><strong style="font-size:11px">Junior BOOTO</strong><small>Enseignant de FLE</small></div></div></div>
+      <div class="welcome"><div><span class="eyebrow">Lundi · Cycle 4</span><h1>Le progrès se construit dans le temps.</h1><p>Retrouve les indices, comprends les besoins, choisis la prochaine étape.</p></div><span class="date">Bogotá · Année scolaire 2026–2027</span></div>
+      <div class="notice"><span>✦</span><div><b>Prototype de démonstration.</b> Les élèves, productions et analyses affichés sont fictifs. L’analyse est simulée par des règles simples ; aucun modèle d’IA ni dossier d’élève réel n’est connecté.</div></div>
+      <section class="stats" aria-label="Résumé du groupe">
+        <div class="stat"><div class="stat-top">Élèves suivis <span class="stat-icon">♧</span></div><strong>24</strong><small>Groupe FLE · Grade 4</small></div>
+        <div class="stat"><div class="stat-top">Traces à examiner <span class="stat-icon" style="background:#fff4dc;color:#9a7525">◷</span></div><strong>6</strong><small>Productions récentes</small></div>
+        <div class="stat"><div class="stat-top">Objectifs documentés <span class="stat-icon" style="background:#edf0fa;color:#5c6397">◎</span></div><strong>8 <small style="font-size:13px">/ 12</small></strong><small>Sur la séquence en cours</small></div>
+        <div class="stat"><div class="stat-top">Progression observée <span class="stat-icon" style="background:#faecee;color:#a35c68">↗</span></div><strong>+18%</strong><small>Depuis le début de la séquence</small></div>
+      </section>
+      <section class="layout">
+        <div>
+          <div class="card">
+            <div class="card-head"><div><h2>Une trace, reliée à un objectif</h2><p>Choisis un élève pour examiner les indices et la suite proposée.</p></div><button class="subtle-btn" id="newTrace">＋ Nouvelle trace</button></div>
+            <div class="group-line"><div><strong>Grade 4 · Décrire un paysage</strong><small>FLE A1 · Séquence « Notre environnement »</small></div><span class="status ready">EN COURS</span></div>
+            <div class="student-list" id="studentList">
+              <div class="student selected" data-student="Camila Rojas" data-initials="CR" data-status="À examiner" data-class="a examiné la production écrite"><div class="student-avatar">CR</div><div><div class="student-name">Camila Rojas</div><div class="student-task">« Il y a une rivière… » · aujourd’hui</div></div><div class="progress-wrap"><div class="progress"><i style="width:68%"></i></div><small>68%</small></div><span class="status review">À EXAMINER</span></div>
+              <div class="student" data-student="Mateo Silva" data-initials="MS" data-status="En progrès" data-class="a identifié les éléments du paysage"><div class="student-avatar">MS</div><div><div class="student-name">Mateo Silva</div><div class="student-task">Vocabulaire paysage · hier</div></div><div class="progress-wrap"><div class="progress"><i style="width:54%"></i></div><small>54%</small></div><span class="status support">À SOUTENIR</span></div>
+              <div class="student" data-student="Sara Gómez" data-initials="SG" data-status="Objectif atteint" data-class="a rédigé trois phrases descriptives"><div class="student-avatar">SG</div><div><div class="student-name">Sara Gómez</div><div class="student-task">Description guidée · 16 oct.</div></div><div class="progress-wrap"><div class="progress"><i style="width:91%"></i></div><small>91%</small></div><span class="status ready">AUTONOME</span></div>
+              <div class="student" data-student="Juan Pérez" data-initials="JP" data-status="À examiner" data-class="a décrit un paysage à l’oral"><div class="student-avatar">JP</div><div><div class="student-name">Juan Pérez</div><div class="student-task">Oral enregistré · 15 oct.</div></div><div class="progress-wrap"><div class="progress"><i style="width:72%"></i></div><small>72%</small></div><span class="status review">À EXAMINER</span></div>
+            </div>
+          </div>
+          <div class="card timeline">
+            <div class="card-head"><div><h2>Le parcours de <span id="timelineName">Camila Rojas</span></h2><p>Des productions qui s’éclairent les unes les autres.</p></div><button class="subtle-btn">Voir le dossier →</button></div>
+            <div class="timeline-body">
+              <div class="time-row"><div class="time-date">19 oct.</div><div class="time-track"><i></i></div><div class="time-copy"><strong>Décrire un paysage · production écrite</strong><p>« Il y a une rivière et la forêt. Je vois deux montagnes. »</p></div></div>
+              <div class="time-row"><div class="time-date">13 oct.</div><div class="time-track"><i></i></div><div class="time-copy"><strong>Associer mots et images · fiche de travail</strong><p>6 éléments correctement associés sur 8. Les mots « rivière » et « lac » restent à consolider.</p></div></div>
+              <div class="time-row"><div class="time-date">6 oct.</div><div class="time-track"><i></i></div><div class="time-copy"><strong>Je décris ce que je vois · échange en binôme</strong><p>Production orale observée par l’enseignant ; vocabulaire mobilisé avec un support visuel.</p></div></div>
+            </div>
+          </div>
+        </div>
+        <div class="card" id="analysisCard">
+          <div class="card-head"><div><h2>Lire la production</h2><p id="analysisSubtitle">Camila Rojas · preuve du 19 octobre</p></div><span class="status review" id="reviewBadge">À EXAMINER</span></div>
+          <div class="panel">
+            <div class="criteria"><span class="eyebrow">Objectif de la séquence</span><strong>Je peux décrire un paysage avec « il y a » et au moins trois éléments.</strong></div>
+            <div class="evidence"><div class="evidence-top"><strong>Production écrite · brouillon</strong><span class="source">▧ Texte saisi par l’enseignant</span></div><blockquote id="quote">« Il y a une rivière et la forêt. Je vois deux montagnes. »</blockquote><div class="source">Ajoutée aujourd’hui · aucune donnée personnelle réelle</div></div>
+            <div class="insight"><div class="insight-title"><strong>Ce que la trace semble montrer</strong><span class="sim-badge">SIMULATION</span></div><div class="finding"><span class="ico">✓</span><span>La structure <b>« il y a »</b> est utilisée pour introduire des éléments.</span></div><div class="finding"><span class="ico">✓</span><span>Au moins trois éléments du paysage sont nommés : rivière, forêt, montagnes.</span></div><div class="uncertain"><b>À vérifier :</b> cette production écrite ne permet pas de conclure que l’élève réutilise ces éléments sans modèle à l’oral.</div></div>
+            <div class="nextstep"><div class="nextstep-top"><div><span class="eyebrow">Étape suivante · proposition</span><h3 id="nextTitle">Décrire sans modèle, puis enrichir</h3></div><span class="sim-badge">À VALIDER</span></div><p id="nextDesc">Partir de l’acquis observé et faire apparaître le prochain besoin, sans répéter l’exercice déjà réussi.</p><div class="level-tabs" role="group" aria-label="Niveau de différenciation"><button class="on" data-level="soutien">Soutien</button><button data-level="cœur">Cœur de cible</button><button data-level="défi">Défi</button></div><div class="activity" id="activityText">Avec une banque de 6 images, choisis 3 éléments et complète oralement : « Je vois… Il y a… » Puis retire les amorces à la deuxième tentative.</div><div class="actions"><button class="primary" id="approveBtn">✓ Valider cette étape</button><button class="secondary" id="editBtn">Modifier</button></div></div>
+          </div>
+        </div>
+      </section>
+      <div class="footnote">TraceFLE · Démonstrateur de concept · Données fictives · Aucune analyse automatique réelle</div>
+    </main>
+  </div>
+  <div class="modal-backdrop" id="modal"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-head"><div><h2 id="modalTitle">Explorer une nouvelle trace</h2><p>Saisis une production fictive et observe comment TraceFLE relie des indices à un objectif. La démonstration n’envoie aucune donnée.</p></div><button class="close" id="closeModal" aria-label="Fermer">×</button></div><div class="field"><label for="goal">Objectif « Je peux… »</label><select id="goal"><option value="landscape">Je peux décrire un paysage avec « il y a ».</option><option value="routine">Je peux raconter ma journée avec des repères temporels.</option><option value="house">Je peux nommer des objets de la maison et les situer.</option></select></div><div class="field"><label for="sample">Production d’exemple</label><textarea id="sample" placeholder="Ex. : Il y a une montagne. Je vois un lac et des arbres."></textarea></div><button class="primary" id="analyzeBtn">Analyser cette trace de démonstration</button><div class="modal-result" id="modalResult" aria-live="polite"></div></div></div>
+  <script src="app.js"></script>
+</body>
+</html>
