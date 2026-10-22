@@ -20,9 +20,13 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 Trois réalisations : **BOOTO NLP LAB** (NLP multilingue), **BOOTO FLE Adaptive AI** (différenciation A1), **PhonoFLE AI** (phonétique /y/–/u/). La page bleu, turquoise et violet comprend deux démonstrations HTML : [FLE Adaptive](projets/booto-ai-lab/demos/adaptive.html) et [PhonoFLE](projets/booto-ai-lab/demos/phonofle.html). **[Ouvrir le laboratoire en ligne](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/)** · [Essayer FLE Adaptive](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/demos/adaptive.html) · [Essayer PhonoFLE](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/demos/phonofle.html).
 
+## BOOTO Correcteur FLE AI V1 · Corrections écrites supervisées
+
+[**Découvrir le prototype et sa démonstration**](https://github.com/Junior-BOOTO/python.skills/tree/main/correcteur-fle-ai) : productions écrites fictives de Grade 4 (« Ma journée typique ») et Grade 5 (écoresponsabilité), 20 règles explicables, suggestions pouvant être acceptées ou rejetées par l’enseignant et fiches PDF, Word ou TXT. **22 tests locaux réussis**. Ce prototype ne corrige pas exhaustivement le français, ne certifie aucun niveau CECRL et n'a pas été évalué en classe. Déploiement Render séparé à réaliser.
+
 ## Éval’FLE AI Engine V1 · Évaluations à imprimer
 
-[**Ouvrir le projet Éval’FLE sur GitHub**](https://github.com/Junior-BOOTO/python.skills/tree/main/eval-fle-ai-engine) : banque de 60 QCM de démonstration pour Grades 4 et 5, corrigés, grilles, indicateurs « Je peux… » et exports PDF/Word. Prototype Python/Streamlit **non déployé**, nécessitant la vérification des contenus avec les programmes de classe avant usage scolaire.
+[**Ouvrir le projet Éval’FLE sur GitHub**](https://github.com/Junior-BOOTO/python.skills/tree/main/eval-fle-ai-engine) : banque de 60 QCM de démonstration pour Grades 4 et 5, corrigés, grilles, indicateurs « Je peux… » et exports PDF/Word. [Application Streamlit hébergée sur Render](https://booto-eval-fle-ai.onrender.com/), dont les corrigés récemment améliorés restent à vérifier sur les nouveaux téléchargements. Vérifier les contenus avec les programmes avant usage scolaire.
 
 ## PhonoFLE AI V1 · Laboratoire de phonétique A1
 
