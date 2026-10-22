@@ -16,6 +16,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 Trois projets de portfolio documentés, un design bleu / turquoise / violet et des boutons GitHub vers les codes sources. Les fichiers sont publiés sur GitHub, **mais pas encore sur le domaine externe du site professionnel**.
 
+## Éval’FLE AI Engine · Prototyper des évaluations A1
+
+[**Documentation et code d’Éval’FLE AI Engine V1**](https://github.com/Junior-BOOTO/python.skills/tree/main/eval-fle-ai-engine) : deux évaluations de 30 QCM (Grades 4 et 5), corrigés séparés et documents Word/PDF. 60 questions d'exemple sans données personnelles ; les objectifs, les trois périodes scolaires et les quatre compétences du CECRL doivent encore être validés par un enseignant. **Non déployé en application web publique.**
+
 ## Projet PhonoFLE AI · Discrimination phonétique A1
 
 [**Présentation, ressources, code et prototype interactif**](https://github.com/Junior-BOOTO/python.skills/tree/main/phonofle-ai) : onze paires /y/–/u/, dix écoutes comparatives et une interface français/espagnol. Rétroactions explicites et grille humaine d'observation. Le système ne traite pas la voix de l'apprenant, ne fournit pas de score phonétique automatique et n'a pas été expérimenté en classe.
