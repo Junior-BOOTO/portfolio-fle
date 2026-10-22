@@ -5,6 +5,8 @@ Cette rubrique présente **trois projets déjà publiés sur GitHub** : BOOTO NL
 ## Page HTML trilingue prête pour le site
 
 - [Page autonome FR / EN / ES](index.html) : une présentation responsive et accessible.
+- [Démonstration BOOTO FLE Adaptive AI](demos/adaptive.html) : exercice HTML autonome.
+- [Démonstration PhonoFLE AI](demos/phonofle.html) : quiz d'écoute HTML autonome (voix dépendante du navigateur).
 - Le fichier est prêt à être importé ou intégré dans l'éditeur du site professionnel.
 - **La publication de cette page dans le site externe** `junior-booto-fle.juniorbooto.chatgpt.site` **n'est pas encore effectuée** : le site n'est pas accessible en édition via la connexion utilisée ici.
 - Les URL GitHub des trois projets sont réelles. **Aucune URL d'application hébergée n'est inventée.**
