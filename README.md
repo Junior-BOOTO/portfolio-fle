@@ -22,7 +22,7 @@ Trois réalisations : **BOOTO NLP LAB** (NLP multilingue), **BOOTO FLE Adaptive 
 
 ## BOOTO Correcteur FLE AI V1 · Corrections écrites supervisées
 
-[**Découvrir le prototype et sa démonstration**](https://github.com/Junior-BOOTO/python.skills/tree/main/correcteur-fle-ai) : productions écrites fictives de Grade 4 (« Ma journée typique ») et Grade 5 (écoresponsabilité), 20 règles explicables, suggestions pouvant être acceptées ou rejetées par l’enseignant et fiches PDF, Word ou TXT. **22 tests locaux réussis**. Ce prototype ne corrige pas exhaustivement le français, ne certifie aucun niveau CECRL et n'a pas été évalué en classe. Déploiement Render séparé à réaliser.
+[**Découvrir le prototype et sa démonstration**](https://github.com/Junior-BOOTO/python.skills/tree/main/correcteur-fle-ai) : productions écrites fictives de Grade 4 (« Ma journée typique ») et Grade 5 (écoresponsabilité), 20 règles explicables, suggestions pouvant être acceptées ou rejetées par l’enseignant et fiches PDF, Word ou TXT. **22 tests locaux réussis**. Ce prototype ne corrige pas exhaustivement le français, ne certifie aucun niveau CECRL et n'a pas été évalué en classe. [**Ouvrir l'application sur Render**](https://booto-correcteur-fle-ai.onrender.com/) — le service a été confirmé `Live` sur capture le 22 octobre 2026 ; vérification des fonctions et exports encore en cours.
 
 ## Éval’FLE AI Engine V1 · Évaluations à imprimer
 
