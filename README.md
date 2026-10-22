@@ -20,6 +20,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 Trois réalisations : **BOOTO NLP LAB** (NLP multilingue), **BOOTO FLE Adaptive AI** (différenciation A1), **PhonoFLE AI** (phonétique /y/–/u/). La page bleu, turquoise et violet comprend deux démonstrations HTML : [FLE Adaptive](projets/booto-ai-lab/demos/adaptive.html) et [PhonoFLE](projets/booto-ai-lab/demos/phonofle.html). **[Ouvrir le laboratoire en ligne](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/)** · [Essayer FLE Adaptive](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/demos/adaptive.html) · [Essayer PhonoFLE](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/demos/phonofle.html).
 
+## Éval’FLE AI Engine V1 · Évaluations à imprimer
+
+[**Ouvrir le projet Éval’FLE sur GitHub**](https://github.com/Junior-BOOTO/python.skills/tree/main/eval-fle-ai-engine) : banque de 60 QCM de démonstration pour Grades 4 et 5, corrigés, grilles, indicateurs « Je peux… » et exports PDF/Word. Prototype Python/Streamlit **non déployé**, nécessitant la vérification des contenus avec les programmes de classe avant usage scolaire.
+
 ## PhonoFLE AI V1 · Laboratoire de phonétique A1
 
 [**Découvrir PhonoFLE AI, sa démonstration et son dossier pédagogique**](https://github.com/Junior-BOOTO/python.skills/tree/main/phonofle-ai). Exercices bilingues français–espagnol pour distinguer /y/ (« u ») et /u/ (« ou ») : 11 oppositions lexicales, 10 questions d'écoute, aide articulatoire et grille d'observation confiée à l'enseignant. Prototype vérifié par tests du moteur ; **pas de reconnaissance vocale ni de jugement automatique de la prononciation**, et aucune validation en classe.
