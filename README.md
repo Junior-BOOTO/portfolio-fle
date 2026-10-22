@@ -18,7 +18,7 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 **[Page d’accueil française complète](projets/booto-ai-lab/index.html)** · [Guide d’intégration](projets/booto-ai-lab/README.md)
 
-Trois réalisations : **BOOTO NLP LAB** (NLP multilingue), **BOOTO FLE Adaptive AI** (différenciation A1), **PhonoFLE AI** (phonétique /y/–/u/). La page bleu, turquoise et violet comprend deux démonstrations HTML : [FLE Adaptive](projets/booto-ai-lab/demos/adaptive.html) et [PhonoFLE](projets/booto-ai-lab/demos/phonofle.html). **La publication sur le domaine professionnel reste à finaliser.**
+Trois réalisations : **BOOTO NLP LAB** (NLP multilingue), **BOOTO FLE Adaptive AI** (différenciation A1), **PhonoFLE AI** (phonétique /y/–/u/). La page bleu, turquoise et violet comprend deux démonstrations HTML : [FLE Adaptive](projets/booto-ai-lab/demos/adaptive.html) et [PhonoFLE](projets/booto-ai-lab/demos/phonofle.html). **[Ouvrir le laboratoire en ligne](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/)** · [Essayer FLE Adaptive](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/demos/adaptive.html) · [Essayer PhonoFLE](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/booto-ai-lab/demos/phonofle.html).
 
 ## PhonoFLE AI V1 · Laboratoire de phonétique A1
 
