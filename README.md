@@ -14,9 +14,11 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 | [Paysages naturels · 4e année A1](projets/paysages-naturels-4e-a1/README.md) | Description en binômes et quatre évaluations distinctes avec corrigés. | Séquence conçue ; résultats de classe non documentés. |
 | [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Passage de scores fictifs à une interprétation pédagogique avec Python. | Démonstrateur sur données synthétiques. |
 
-## BOOTO AI & DATA INNOVATION LAB · Trois projets documentés
+## BOOTO AI & DATA INNOVATION LAB · Accueil français final
 
-[**Page de présentation trilingue FR / EN / ES (HTML à intégrer au site)**](projets/booto-ai-lab/index.html) · [Guide et état de publication](projets/booto-ai-lab/README.md). Les trois prototypes sont publiés sur GitHub : BOOTO NLP LAB, BOOTO FLE Adaptive AI et PhonoFLE AI. **La version du site professionnel externe reste à intégrer**.
+**[Page d’accueil française complète](projets/booto-ai-lab/index.html)** · [Guide d’intégration](projets/booto-ai-lab/README.md)
+
+Trois réalisations : **BOOTO NLP LAB** (NLP multilingue), **BOOTO FLE Adaptive AI** (différenciation A1), **PhonoFLE AI** (phonétique /y/–/u/). La page bleu, turquoise et violet comprend deux démonstrations HTML : [FLE Adaptive](projets/booto-ai-lab/demos/adaptive.html) et [PhonoFLE](projets/booto-ai-lab/demos/phonofle.html). **La publication sur le domaine professionnel reste à finaliser.**
 
 ## PhonoFLE AI V1 · Laboratoire de phonétique A1
 
