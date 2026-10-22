@@ -1,21 +1,457 @@
 <!doctype html>
-<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="BOOTO AI & DATA INNOVATION LAB : projets professionnels en IA pédagogique, phonétique FLE et traitement automatique des langues."><title>BOOTO AI & DATA INNOVATION LAB — Portfolio</title>
-<style>
-:root{--ink:#0d2847;--sky:#42b8e7;--navy:#174b78;--mint:#13a39b;--lilac:#8366cd;--orange:#f29b61;--edge:#d7e6f1;--muted:#536a80}
-*{box-sizing:border-box}body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial,sans-serif;background:linear-gradient(145deg,#f3fbff,#f8f7ff 42%,#f3fff9);color:var(--ink);line-height:1.6}a{color:#155e97}a:focus-visible,button:focus-visible{outline:3px solid #ffab55;outline-offset:3px}.wrap{max-width:1180px;margin:auto;padding:0 22px}.bar{background:white;border-bottom:1px solid var(--edge)}.bar-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:76px;flex-wrap:wrap}.brand{font-weight:850;letter-spacing:.015em;color:var(--navy)}.brand b{color:var(--mint)}button{font:inherit;cursor:pointer;border:1px solid #c7d9e8;border-radius:11px;padding:8px 12px;background:white;color:var(--navy)}button[aria-pressed=true]{background:var(--navy);color:white}.hero{padding:72px 0 56px;background:radial-gradient(circle at 13% 13%,#bcefff 0,transparent 34%),radial-gradient(circle at 90% 11%,#e5d8fd 0,transparent 33%),linear-gradient(135deg,#f7fcff,#eaf7ff)}.eyebrow{font-weight:800;letter-spacing:.14em;color:#176794;text-transform:uppercase;font-size:12px}.hero h1{font-size:clamp(2.25rem,5vw,4.5rem);max-width:850px;line-height:1.13;margin:14px 0 18px}.hero h1 em{font-style:normal;color:var(--navy)}.lead{font-size:1.14rem;max-width:820px;color:var(--muted)}.pills{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px}.pill{display:inline-flex;border:1px solid #c6dae9;background:#fff;padding:7px 13px;border-radius:100px;font-weight:600;font-size:.89rem}.section{padding:64px 0}.section h2{font-size:clamp(1.8rem,3.2vw,2.55rem);margin:0 0 10px}.intro{max-width:760px;color:var(--muted);margin:0 0 35px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.card{position:relative;display:flex;flex-direction:column;background:white;padding:28px;border:1px solid var(--edge);border-top:6px solid var(--sky);border-radius:19px;box-shadow:0 12px 36px #2042680c}.card:nth-child(2){border-top-color:var(--mint)}.card:nth-child(3){border-top-color:var(--lilac)}.card .icon{font-size:38px;line-height:1}.card h3{font-size:1.44rem;line-height:1.25;margin:16px 0 8px}.card p{color:var(--muted)}.meta{font-size:.82rem;color:#345471;font-weight:800;letter-spacing:.045em;text-transform:uppercase}.facts{padding-left:20px;color:var(--ink);margin:12px 0 28px}.facts li{margin:8px 0}.links{margin-top:auto;display:flex;flex-wrap:wrap;gap:9px}.primary,.secondary{display:inline-block;text-decoration:none;border-radius:9px;padding:10px 14px;font-weight:750;font-size:.9rem}.primary{background:#155a92;color:#fff}.secondary{background:#eff7fc;color:#155a92;border:1px solid #d0e7f7}.note{margin-top:28px;background:#eaf6ff;border:1px solid #a6dafa;border-radius:14px;padding:18px 22px;color:#214b65}.trace{display:grid;grid-template-columns:1fr 1fr;gap:22px;background:white;border:1px solid var(--edge);border-radius:18px;padding:25px}.trace h3{margin-top:0}.trace p{color:var(--muted)}footer{border-top:1px solid var(--edge);padding:33px 0 40px;background:#f0f9ff;color:#416079;font-size:.95rem}@media(max-width:900px){.grid{grid-template-columns:1fr 1fr}.grid .card:last-child{grid-column:1/-1}.hero{padding:45px 0}}@media(max-width:620px){.grid,.trace{grid-template-columns:1fr}.grid .card:last-child{grid-column:auto}.bar-inner{padding:12px 0}.card{padding:23px}}
-</style></head>
-<body><header class="bar"><div class="wrap bar-inner"><div class="brand">BOOTO <b>AI & DATA</b> INNOVATION LAB</div><nav aria-label="Language"><button aria-pressed="true" data-lang="fr">FR</button> <button aria-pressed="false" data-lang="en">EN</button> <button aria-pressed="false" data-lang="es">ES</button></nav></div></header>
-<main><section class="hero"><div class="wrap"><div class="eyebrow" data-t="eyebrow">RECHERCHE · INGÉNIERIE PÉDAGOGIQUE · PYTHON</div><h1 data-t="hero">Des projets concrets à la rencontre du <em>français, des données et de l'IA</em></h1><p class="lead" data-t="lead">Un laboratoire de prototypes documentés pour expérimenter la différenciation pédagogique, l'écoute phonétique et l'analyse multilingue des textes. Les résultats et limites sont accessibles dans GitHub.</p><div class="pills"><span class="pill">FLE · A1–A2</span><span class="pill">Python · Data Science</span><span class="pill">NLP · Traitement du langage</span><span class="pill" data-t="prototype">Prototypes transparents</span></div></div></section>
-<section class="section" id="projects"><div class="wrap"><h2 data-t="projects">Les trois projets</h2><p class="intro" data-t="intro">Chaque projet comporte du code, une documentation de conception et des limites d'utilisation explicites. Les applications web ne sont pas présentées comme déjà déployées.</p><div class="grid">
-<article class="card"><div class="icon" aria-hidden="true">🧠</div><div class="meta">NLP · FR / EN / ES</div><h3>BOOTO NLP LAB</h3><p data-t="nlp_desc">Analyse de corpus trilingues : détection de langues, catégories thématiques, mots-clés TF-IDF, documents similaires et export des résultats.</p><ul class="facts"><li data-t="nlp_1">300 textes synthétiques de démonstration</li><li data-t="nlp_2">Interface Streamlit et tests Python</li><li data-t="nlp_3">Mesures externes à valider</li></ul><div class="links"><a class="primary" href="https://github.com/Junior-BOOTO/python.skills/tree/main/booto-nlp-lab" rel="noopener noreferrer" target="_blank" data-t="code">Code & documentation</a></div></article>
-<article class="card"><div class="icon" aria-hidden="true">📘</div><div class="meta">FLE · A1 · PYP</div><h3>BOOTO FLE Adaptive AI</h3><p data-t="adaptive_desc">Diagnostic de la routine quotidienne et recommandations de micro-activités pour différencier les apprentissages, avec des règles compréhensibles par l'enseignant.</p><ul class="facts"><li data-t="adaptive_1">12 questions formatives</li><li data-t="adaptive_2">12 profils totalement fictifs</li><li data-t="adaptive_3">Pas de preuve d'efficacité en classe</li></ul><div class="links"><a class="primary" href="https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-adaptive-ai" rel="noopener noreferrer" target="_blank" data-t="code">Code & documentation</a><a class="secondary" href="demos/adaptive.html" data-t="demo">Démonstration HTML</a></div></article>
-<article class="card"><div class="icon" aria-hidden="true">🎧</div><div class="meta">PHONÉTIQUE · FR / ES · A1</div><h3>PhonoFLE AI</h3><p data-t="phono_desc">Discrimination auditive de « u » /y/ et « ou » /u/, avec paires minimales, aide articulatoire et grille d'observation renseignée par l'enseignant.</p><ul class="facts"><li data-t="phono_1">11 paires, 10 questions</li><li data-t="phono_2">Voix synthétique selon le navigateur</li><li data-t="phono_3">Aucune notation automatique de la voix</li></ul><div class="links"><a class="primary" href="https://github.com/Junior-BOOTO/python.skills/tree/main/phonofle-ai" rel="noopener noreferrer" target="_blank" data-t="code">Code & documentation</a><a class="secondary" href="demos/phonofle.html" data-t="demo">Démonstration HTML</a></div></article>
-</div><div class="note" role="note" data-t="note"><strong>Transparence :</strong> ces réalisations sont des prototypes en cours de validation. Aucun des trois n'est annoncé comme une application publique hébergée. Ils n'utilisent pas de données réelles d'élèves pour les démonstrations.</div></div></section>
-<section class="section"><div class="wrap"><div class="trace"><div><h3 data-t="h3_teacher">Pour les enseignants de FLE</h3><p data-t="teacher">Explorer des dispositifs de remédiation, des critères « Je peux… » et des activités observables, puis les adapter à un contexte réel après validation pédagogique.</p><a href="https://github.com/Junior-BOOTO/portfolio-fle" rel="noopener noreferrer" target="_blank" data-t="fle_portfolio">Explorer le portfolio FLE ↗</a></div><div><h3 data-t="h3_dev">Pour les développeurs et analystes</h3><p data-t="dev">Parcourir le code Python, les tests automatisés, les corpus synthétiques et les choix d'architecture des prototypes.</p><a href="https://github.com/Junior-BOOTO/python.skills" rel="noopener noreferrer" target="_blank" data-t="python_portfolio">Explorer le portfolio Python ↗</a></div></div></div></section></main><footer><div class="wrap">© 2026 Junior BOOTO Waba · BOOTO AI & DATA INNOVATION LAB · <span data-t="footer">Prototypes professionnels documentés · Pas de données personnelles d'élèves.</span></div></footer>
-<script>
-const dict={
-fr:{eyebrow:'RECHERCHE · INGÉNIERIE PÉDAGOGIQUE · PYTHON',hero:"Des projets concrets à la rencontre du <em>français, des données et de l’IA</em>",lead:"Un laboratoire de prototypes documentés pour expérimenter la différenciation pédagogique, l’écoute phonétique et l’analyse multilingue des textes. Les résultats et limites sont accessibles dans GitHub.",prototype:'Prototypes transparents',projects:'Les trois projets',intro:'Chaque projet comporte du code, une documentation de conception et des limites d’utilisation explicites. Les applications web ne sont pas présentées comme déjà déployées.',nlp_desc:'Analyse de corpus trilingues : détection de langues, catégories thématiques, mots-clés TF-IDF, documents similaires et export des résultats.',nlp_1:'300 textes synthétiques de démonstration',nlp_2:'Interface Streamlit et tests Python',nlp_3:'Mesures externes à valider',adaptive_desc:'Diagnostic de la routine quotidienne et recommandations de micro-activités pour différencier les apprentissages, avec des règles compréhensibles par l’enseignant.',adaptive_1:'12 questions formatives',adaptive_2:'12 profils totalement fictifs',adaptive_3:'Pas de preuve d’efficacité en classe',phono_desc:'Discrimination auditive de « u » /y/ et « ou » /u/, avec paires minimales, aide articulatoire et grille d’observation renseignée par l’enseignant.',phono_1:'11 paires, 10 questions',phono_2:'Voix synthétique selon le navigateur',phono_3:'Aucune notation automatique de la voix',code:'Code & documentation',demo:'Démonstration HTML',note:'<strong>Transparence :</strong> ces réalisations sont des prototypes en cours de validation. Aucun des trois n’est annoncé comme une application publique hébergée. Ils n’utilisent pas de données réelles d’élèves pour les démonstrations.',h3_teacher:'Pour les enseignants de FLE',teacher:'Explorer des dispositifs de remédiation, des critères « Je peux… » et des activités observables, puis les adapter à un contexte réel après validation pédagogique.',fle_portfolio:'Explorer le portfolio FLE ↗',h3_dev:'Pour les développeurs et analystes',dev:'Parcourir le code Python, les tests automatisés, les corpus synthétiques et les choix d’architecture des prototypes.',python_portfolio:'Explorer le portfolio Python ↗',footer:'Prototypes professionnels documentés · Pas de données personnelles d’élèves.'},
-en:{eyebrow:'RESEARCH · LEARNING DESIGN · PYTHON',hero:'Practical projects at the intersection of <em>French teaching, data and AI</em>',lead:'An evolving lab of documented prototypes for differentiated learning, phonetic listening and multilingual text analytics. Find source code, evidence and limitations on GitHub.',prototype:'Transparent prototypes',projects:'Three flagship projects',intro:'Each project comes with source code, design documentation and clearly stated limitations. Web apps are not represented as already hosted.',nlp_desc:'Analyze French, English and Spanish texts: language detection, topic classification, TF-IDF keywords, similarity and CSV export.',nlp_1:'300 synthetic demo texts',nlp_2:'Streamlit interface and Python tests',nlp_3:'External benchmarks still needed',adaptive_desc:'Daily-routine formative assessment and rule-based recommendations for differentiated learning under teacher supervision.',adaptive_1:'12 formative questions',adaptive_2:'12 entirely fictional learner profiles',adaptive_3:'No classroom impact validated yet',phono_desc:'Auditory discrimination between French /y/ and /u/ using minimal pairs, articulatory cues and a teacher-completed observation rubric.',phono_1:'11 pairs and 10 questions',phono_2:'Browser-dependent speech synthesis',phono_3:'No automated voice assessment',code:'Code & documentation',demo:'Démonstration HTML',note:'<strong>Transparency:</strong> these are prototypes requiring further validation. None is represented as an already hosted live web app. Demonstrations contain no real student data.',h3_teacher:'For French-language educators',teacher:'Explore guided remediation, “I can…” criteria and observable activities, with teacher review before classroom use.',fle_portfolio:'Explore the FLE portfolio ↗',h3_dev:'For developers and data analysts',dev:'Explore Python source code, tests, synthetic datasets and documented design trade-offs.',python_portfolio:'Explore the Python portfolio ↗',footer:'Documented professional prototypes · No personal student data.'},
-es:{eyebrow:'INVESTIGACIÓN · DISEÑO PEDAGÓGICO · PYTHON',hero:'Proyectos en la intersección del <em>francés, los datos y la IA</em>',lead:'Un laboratorio de prototipos documentados para la enseñanza diferenciada, la percepción fonética y el análisis multilingüe de textos. Código, pruebas y límites en GitHub.',prototype:'Prototipos transparentes',projects:'Tres proyectos principales',intro:'Cada proyecto ofrece código fuente, documentación y límites claros. Las aplicaciones web no se presentan como ya alojadas en línea.',nlp_desc:'Analizar textos en francés, inglés y español: detección de idioma, clasificación temática, palabras clave TF-IDF, similitud y exportación CSV.',nlp_1:'300 textos sintéticos de demostración',nlp_2:'Interfaz Streamlit y pruebas Python',nlp_3:'Validación externa pendiente',adaptive_desc:'Evaluación formativa de rutinas y recomendaciones basadas en reglas para diferenciar el aprendizaje bajo la supervisión docente.',adaptive_1:'12 preguntas formativas',adaptive_2:'12 perfiles completamente ficticios',adaptive_3:'Sin evidencia de impacto en clase',phono_desc:'Discriminación auditiva del francés /y/ y /u/ con pares mínimos, consejos articulatorios y una rúbrica completada por el docente.',phono_1:'11 pares y 10 preguntas',phono_2:'Voz sintética según el navegador',phono_3:'Sin evaluación automática de voz',code:'Código y documentación',demo:'Demostración HTML',note:'<strong>Transparencia:</strong> los proyectos son prototipos pendientes de validación. Ninguno se presenta como una aplicación web ya alojada. Las demostraciones no contienen datos reales de estudiantes.',h3_teacher:'Para docentes de FLE',teacher:'Explore actividades de refuerzo, criterios « Puedo… » y evidencias observables, siempre con revisión docente.',fle_portfolio:'Explorar el portafolio FLE ↗',h3_dev:'Para desarrolladores y analistas',dev:'Consulte código Python, pruebas, datos sintéticos y decisiones de diseño documentadas.',python_portfolio:'Explorar el portafolio Python ↗',footer:'Prototipos profesionales documentados · Sin datos personales de estudiantes.'}}
-for(const btn of document.querySelectorAll('[data-lang]'))btn.addEventListener('click',()=>{const lang=btn.dataset.lang;document.documentElement.lang=lang;for(const b of document.querySelectorAll('[data-lang]'))b.setAttribute('aria-pressed',String(b===btn));for(const el of document.querySelectorAll('[data-t]'))el.innerHTML=dict[lang][el.dataset.t]||'';});
-</script></body></html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0c2446">
+  <meta name="description" content="BOOTO AI & DATA INNOVATION LAB, fondé par Junior BOOTO Waba : prototypes en intelligence artificielle éducative, FLE, phonétique et analyse multilingue avec Python.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="BOOTO AI & DATA INNOVATION LAB — Innover à la croisée des langues et des données">
+  <meta property="og:description" content="Trois prototypes documentés : BOOTO NLP LAB, BOOTO FLE Adaptive AI et PhonoFLE AI. Code et démonstrations accessibles.">
+  <title>BOOTO AI & DATA INNOVATION LAB — Langues, apprentissage et intelligence artificielle</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #112b4b;
+      --ink-2: #46627e;
+      --navy: #0c2446;
+      --navy-deep: #08182f;
+      --blue: #2379cf;
+      --sky: #45bdf0;
+      --turquoise: #06aea9;
+      --violet: #7459df;
+      --line: #dce8f5;
+      --surface: #ffffff;
+      --soft: #f5f9ff;
+      --radius: 22px;
+      --shadow: 0 20px 50px rgba(16, 49, 90, .085);
+      --container: 1180px;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 102px; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; color: var(--ink); line-height: 1.65; background: #fff; }
+    a { color: var(--blue); }
+    a:hover { color: #164ba6; }
+    a:focus-visible, button:focus-visible { outline: 3px solid #f9b644; outline-offset: 4px; }
+    button { font: inherit; }
+    .skip { position: absolute; top: -80px; left: 12px; z-index: 100; padding: 10px 18px; color: white; background: var(--navy); border-radius: 10px; }
+    .skip:focus { top: 10px; }
+    .container { width: min(var(--container), calc(100% - 48px)); margin-inline: auto; }
+    .eyebrow { display: inline-flex; align-items: center; gap: 9px; font-size: .73rem; letter-spacing: .16em; text-transform: uppercase; font-weight: 850; color: #087f91; }
+    .eyebrow::before { content: ""; height: 7px; width: 7px; border-radius: 50%; background: var(--turquoise); box-shadow: 0 0 0 5px rgba(6,174,169,.13); }
+    .h-section { font-size: clamp(2rem, 3.5vw, 3.3rem); letter-spacing: -.045em; line-height: 1.16; margin: 16px 0 16px; color: var(--navy); }
+    .lead { font-size: clamp(1.03rem, 1.4vw, 1.2rem); color: var(--ink-2); max-width: 740px; }
+    .muted { color: var(--ink-2); }
+    .section { padding: 96px 0; }
+    .section-head { max-width: 810px; margin-bottom: 44px; }
+    .section-head p { margin: 0; color: var(--ink-2); font-size: 1.07rem; }
+    .gradient-text { color: var(--blue); background: linear-gradient(110deg,#2c85d1 3%,#0ab6ad 52%,#7d5fe2); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+    .btn { text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 11px; padding: 13px 19px; border-radius: 12px; font-weight: 790; font-size: .95rem; line-height: 1.35; border: 1px solid transparent; transition: transform .18s ease, box-shadow .18s ease, background .18s ease; white-space: normal; }
+    .btn:hover { text-decoration: none; transform: translateY(-2px); }
+    .btn-primary { background: linear-gradient(110deg, #2876d3, #4a56c7); color: white; box-shadow: 0 10px 25px rgba(49, 96, 197, .23); }
+    .btn-primary:hover { color: #fff; box-shadow: 0 15px 27px rgba(49, 96, 197, .29); }
+    .btn-teal { background: #087f85; color: #fff; }
+    .btn-teal:hover { color: white; background: #07656a; }
+    .btn-outline { color: var(--navy); background: rgba(255,255,255,.88); border-color: #c8d9ed; }
+    .btn-outline:hover { color: var(--blue); background: white; border-color: #91bee8; }
+    .btn-small { padding: 10px 14px; font-size: .88rem; border-radius: 11px; }
+    .btn-light { color: var(--navy); background: white; }
+    .btn-light:hover { color: #125db2; }
+    .btn-outline-light { border-color: rgba(255,255,255,.5); background: rgba(255,255,255,.08); color: white; }
+    .btn-outline-light:hover { color: white; background: rgba(255,255,255,.15); }
+    .btn-icon { font-size: 1.09rem; aria-hidden: true; }
+
+    /* Navigation */
+    .header { position: sticky; top: 0; z-index: 80; background: rgba(255,255,255,.96); border-bottom: 1px solid #dce8f2; backdrop-filter: blur(20px); box-shadow: 0 3px 20px rgba(12,36,70,.025); }
+    .header-inner { min-height: 82px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+    .brand { text-decoration: none; color: var(--navy); display: inline-flex; align-items: center; gap: 13px; min-width: 0; }
+    .brand:hover { color: var(--navy); }
+    .brand-mark { display: grid; place-items: center; width: 43px; height: 43px; border-radius: 12px; background: linear-gradient(140deg,#0e75be,#03aaae 56%,#7659da); color: white; font-size: 1.06rem; font-weight: 900; letter-spacing: -.08em; box-shadow: 0 8px 18px #188baf36; flex: none; }
+    .brand-name { display: block; line-height: 1.14; font-size: .93rem; letter-spacing: .025em; font-weight: 900; }
+    .brand-sub { display: block; color: #62809a; font-size: .67rem; font-weight: 700; letter-spacing: .15em; margin-top: 4px; }
+    .nav { display: flex; gap: 22px; align-items: center; }
+    .nav a:not(.btn) { text-decoration: none; color: #425c77; font-size: .88rem; font-weight: 730; }
+    .nav a:not(.btn):hover { color: var(--blue); }
+    .menu-toggle { display: none; background: #eef7fd; color: var(--navy); border: 1px solid #cbdff0; border-radius: 10px; padding: 7px 11px; font-size: 1.35rem; }
+
+    /* Hero */
+    .hero { position: relative; isolation: isolate; overflow: hidden; padding: 103px 0 98px; background: linear-gradient(135deg,#f7fcff 5%,#eef9fd 37%,#f1f1ff 73%,#f5fcfc 100%); }
+    .hero::before, .hero::after { content: ""; position: absolute; z-index: -1; border-radius: 50%; filter: blur(4px); }
+    .hero::before { width: 490px; height: 490px; top: -210px; right: -200px; background: radial-gradient(circle,#b3ddff55,transparent 68%); }
+    .hero::after { width: 560px; height: 560px; bottom: -390px; left: -210px; background: radial-gradient(circle,#57bdbd2b,transparent 67%); }
+    .hero-grid { display: grid; grid-template-columns: minmax(0,1.15fr) minmax(380px,.85fr); gap: 62px; align-items: center; }
+    .hero h1 { font-size: clamp(2.75rem, 5.4vw, 5rem); letter-spacing: -.065em; line-height: 1.095; color: var(--navy); margin: 21px 0 25px; max-width: 770px; }
+    .hero-copy > p { max-width: 690px; margin: 0 0 26px; font-size: 1.15rem; color: #3d5978; }
+    .hero-actions, .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+    .hero-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 30px; }
+    .tag { display: inline-flex; font-size: .83rem; font-weight: 760; line-height: 1.3; padding: 7px 12px; border: 1px solid #cae2eb; color: #2a668a; background: #ffffffc9; border-radius: 99px; }
+    .hero-art { position: relative; min-height: 475px; display: grid; place-items: center; }
+    .hero-art::before { content: ""; position: absolute; height: 405px; width: 405px; border-radius: 50%; background: conic-gradient(from 15deg, #1ebaa83e, #7054dc39, #4090e435, #1ebaa83e); filter: blur(0); }
+    .art-main { position: relative; z-index: 1; width: min(100%, 430px); border: 1px solid #d2e3f3; background: #fffffff2; border-radius: 24px; padding: 21px; box-shadow: 0 30px 70px #183b6a26; transform: rotate(-2deg); }
+    .art-top { display: flex; gap: 8px; align-items: center; color: #6b8196; font-size: .76rem; font-weight: 760; border-bottom: 1px solid #e2ebf4; padding-bottom: 15px; }
+    .dot { display: block; height: 9px; width: 9px; background: #c9d2df; border-radius: 50%; }
+    .dot:nth-child(1){background:#ef9da5}.dot:nth-child(2){background:#f5cd7b}.dot:nth-child(3){background:#80d5c3}
+    .art-top .title { margin-left: auto; letter-spacing: .035em; }
+    .art-metric { display: flex; justify-content: space-between; align-items: center; padding: 20px 2px 15px; gap: 8px; }
+    .art-metric b { font-size: 1.09rem; letter-spacing: -.02em; }
+    .art-metric small { font-size: .76rem; font-weight: 720; color: #238282; }
+    .art-rows { display: grid; gap: 10px; }
+    .art-row { display: grid; grid-template-columns: 50px 1fr auto; gap: 12px; align-items: center; padding: 12px 13px; border-radius: 12px; border: 1px solid #e4edf6; background: #f8fbff; }
+    .art-symbol { font-size: 1.1rem; height: 42px; width: 42px; border-radius: 11px; display: grid; place-items: center; color: #21599c; background: #e0efff; }
+    .art-symbol.teal { background: #ddf8f3; color: #067d7f; }
+    .art-symbol.purple { background: #eee9ff; color: #6f56c9; }
+    .art-label strong { font-size: .82rem; display: block; color: #233c5d; }
+    .art-label span { font-size: .68rem; display: block; color: #69839c; }
+    .art-progress { height: 7px; width: 48px; border-radius: 20px; background: #dbe5f2; overflow: hidden; }
+    .art-progress span { display: block; height: 100%; border-radius: 20px; background: var(--blue); }
+    .art-bottom { margin-top: 17px; border-radius: 13px; padding: 12px 14px; font-size: .75rem; font-weight: 720; background: linear-gradient(90deg,#e4f8f5,#eff0ff); color: #355679; }
+    .art-bubble { z-index: 2; position: absolute; display: inline-flex; align-items: center; gap: 8px; border: 1px solid #d8e6f2; background: #fff; padding: 10px 14px; font-weight: 780; font-size: .8rem; border-radius: 14px; box-shadow: 0 12px 27px #163e5d1a; }
+    .bubble-one { top: 20px; right: -6px; transform: rotate(5deg); color: #067b7a; }
+    .bubble-two { bottom: 12px; left: -18px; transform: rotate(5deg); color: #654ecb; }
+
+    /* Vision */
+    .intro-band { background: #fff; border-bottom: 1px solid #eff3f9; }
+    .vision-layout { display: grid; grid-template-columns: minmax(0,1fr) minmax(340px, .94fr); gap: 72px; align-items: center; }
+    .vision-layout p { color: #516b85; margin-bottom: 15px; }
+    .values { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 15px; }
+    .value { background: linear-gradient(155deg,#fff,#f6faff); border: 1px solid #deebf5; border-radius: 16px; padding: 22px 19px; box-shadow: 0 9px 24px #0c24460a; }
+    .value strong { display: block; font-size: .99rem; color: var(--navy); margin: 9px 0 5px; }
+    .value span:last-child { font-size: .84rem; color: #5c7790; }
+    .value .icon { display: inline-flex; justify-content: center; align-items: center; width: 42px; height: 42px; border-radius: 12px; background: #e4f1fe; font-size: 1.2rem; }
+    .value:nth-child(2) .icon {background:#e2f7f2}.value:nth-child(3) .icon {background:#eee9ff}.value:nth-child(4) .icon {background:#dff6ff}
+
+    /* Domains */
+    .domains { background: linear-gradient(180deg,#f4f9fe,#f6f8fe); }
+    .domain-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; }
+    .domain { position: relative; overflow: hidden; background: #fff; border: 1px solid #dae7f3; border-radius: var(--radius); padding: 36px; box-shadow: var(--shadow); }
+    .domain::before { content: ""; position: absolute; height: 6px; inset: 0 0 auto 0; background: linear-gradient(90deg,var(--turquoise),#48c8cb); }
+    .domain:nth-child(2)::before { background: linear-gradient(90deg,#257dcf,var(--violet)); }
+    .domain h3 { font-size: 1.51rem; line-height: 1.25; margin: 17px 0 12px; letter-spacing: -.025em; color: var(--navy); }
+    .domain p { color: var(--ink-2); }
+    .domain .domain-no { color: #128e97; font-weight: 850; letter-spacing: .1em; font-size: .84rem; }
+    .domain:nth-child(2) .domain-no {color:#6d62c7}
+    .domain > a { font-weight: 790; text-decoration: none; }
+
+    /* Projects */
+    .projects { background: white; }
+    .projects-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 21px; }
+    .project-card { display: flex; flex-direction: column; border-radius: 20px; border: 1px solid var(--line); background: #fff; overflow: hidden; box-shadow: 0 12px 38px rgba(12,36,70,.075); transition: transform .2s ease, box-shadow .2s ease; }
+    .project-card:hover { transform: translateY(-6px); box-shadow: 0 24px 55px rgba(12,36,70,.13); }
+    .project-banner { padding: 25px; min-height: 178px; display: flex; flex-direction: column; justify-content: space-between; background: linear-gradient(125deg,#dff5fe,#cfe6ff); }
+    .project-card:nth-child(2) .project-banner { background: linear-gradient(125deg,#d7f8f1,#e6fdf5); }
+    .project-card:nth-child(3) .project-banner { background: linear-gradient(125deg,#efe7ff,#dfd8ff); }
+    .banner-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+    .banner-icon { display: grid; place-items: center; width: 60px; height: 60px; font-size: 2rem; border-radius: 17px; background: #ffffffbc; box-shadow: 0 10px 30px #2379cf1a; }
+    .pill-status { font-size: .69rem; font-weight: 830; text-transform: uppercase; letter-spacing: .075em; color: #315a83; background: #ffffffbb; padding: 7px 11px; border-radius: 50px; }
+    .project-banner strong { color: #276a9d; text-transform: uppercase; letter-spacing: .13em; font-size: .73rem; }
+    .project-card:nth-child(2) .project-banner strong {color:#007d78}
+    .project-card:nth-child(3) .project-banner strong {color:#5f4bb2}
+    .project-body { padding: 28px 25px 25px; display: flex; flex: 1; flex-direction: column; }
+    .project-body h3 { font-size: 1.5rem; line-height: 1.2; letter-spacing: -.033em; color: var(--navy); margin: 0 0 6px; }
+    .project-sub { font-size: .84rem; font-weight: 740; color: #147c90; margin: 0 0 15px; }
+    .project-body p { color: var(--ink-2); margin: 12px 0; }
+    .project-facts { margin: 10px 0 20px; padding: 0; list-style: none; }
+    .project-facts li { display: flex; gap: 9px; align-items: flex-start; font-size: .92rem; color: #354f69; margin: 10px 0; }
+    .project-facts li::before { content: "✓"; font-weight: 900; color: #009c98; }
+    .project-note { border-left: 3px solid #a8bbda; background: #f7f9fc; border-radius: 5px 9px 9px 5px; padding: 11px 13px; font-size: .79rem; line-height: 1.5; color: #526d88; margin-top: auto; }
+    .card-actions { display: flex; flex-direction: column; gap: 9px; margin-top: 20px; }
+    .card-actions .btn { width: 100%; }
+    .project-disclaimer { margin-top: 25px; padding: 20px 23px; border-radius: 14px; background: #ecf8fd; border: 1px solid #c9e5f2; color: #375a72; font-size: .91rem; }
+
+    /* Method */
+    .method { background: linear-gradient(180deg,#eef7fc,#f4f6fe); }
+    .step-grid { display: grid; grid-template-columns: repeat(5,minmax(0,1fr)); gap: 14px; }
+    .step { position: relative; border: 1px solid #dce6f4; background: #fff; border-radius: 15px; padding: 25px 19px 23px; box-shadow: 0 10px 24px #16406b08; }
+    .step-num { font-size: 2.05rem; letter-spacing: -.07em; font-weight: 950; line-height: 1; color: #a5bee4; }
+    .step:nth-child(2) .step-num {color:#65bacc}.step:nth-child(3) .step-num{color:#75bbca}.step:nth-child(4) .step-num{color:#9b95e5}.step:nth-child(5) .step-num{color:#786fcf}
+    .step h3 { font-size: 1rem; margin: 20px 0 10px; line-height: 1.35; }
+    .step p { color: var(--ink-2); margin: 0; font-size: .87rem; }
+
+    /* Audience */
+    .audience { background: white; }
+    .audience-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 22px; }
+    .audience-card { border: 1px solid var(--line); padding: 31px 27px; border-radius: 19px; background: linear-gradient(155deg,#ffffff,#f9fbff); }
+    .audience-icon { font-size: 1.9rem; }
+    .audience-card h3 { font-size: 1.2rem; margin: 10px 0; }
+    .audience-card p { color: var(--ink-2); font-size: .93rem; }
+    .audience-card a { font-weight: 790; text-decoration: none; }
+
+    /* Ethics and about */
+    .ethical { background: #0c2648; position: relative; overflow: hidden; color: #fff; }
+    .ethical::before { content: ""; position: absolute; inset: 0; pointer-events: none; background: radial-gradient(circle at 87% 8%,#4964d44d,transparent 39%), radial-gradient(circle at 0% 93%,#08b4a53c,transparent 38%); }
+    .ethical .container { position: relative; }
+    .ethical .eyebrow { color: #81dfdc; }
+    .ethical .h-section { color: white; }
+    .ethical-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 70px; align-items: center; }
+    .ethical p { color: #bcd0e2; }
+    .ethical-items { display: grid; gap: 13px; }
+    .ethical-item { display: flex; gap: 13px; align-items: flex-start; border: 1px solid #ffffff2e; padding: 16px 18px; background: #ffffff09; border-radius: 13px; font-weight: 720; font-size: .94rem; }
+    .ethical-item span:first-child { color: #6ce1dc; font-weight: 900; font-size: 1.2rem; }
+    .about-grid { display: grid; grid-template-columns: 325px 1fr; gap: 70px; align-items: center; }
+    .founder-card { border-radius: 22px; background: linear-gradient(145deg,#e3f6fb,#eeeafe); padding: 36px 27px; border: 1px solid #d7e8f6; text-align: center; }
+    .founder-avatar { display: grid; place-items: center; margin: 0 auto 19px; width: 120px; height: 120px; border-radius: 32px; background: linear-gradient(145deg,#237dc5,#11b9b1 52%,#7459df); box-shadow: 0 20px 40px #3a79ac3b; font-size: 3rem; color: white; font-weight: 950; letter-spacing: -.11em; }
+    .founder-card strong { font-size: 1.13rem; letter-spacing: -.025em; }
+    .founder-card p { font-size: .91rem; color: #526d86; margin: 9px 0 0; }
+    .about-copy p { color: var(--ink-2); }
+
+    /* Main CTA */
+    .cta-section { padding: 46px 0 96px; }
+    .cta-panel { position: relative; overflow: hidden; display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 30px; align-items: center; border-radius: 26px; color: white; padding: 52px; background: linear-gradient(108deg,#105ba3,#0a898f 57%,#6255b4); box-shadow: 0 20px 43px #27599c30; }
+    .cta-panel::after { content: ""; position: absolute; right: -100px; bottom: -190px; width: 370px; height: 370px; border: 65px solid #ffffff15; border-radius: 50%; pointer-events: none; }
+    .cta-panel h2 { margin: 0 0 10px; font-size: clamp(1.65rem,2.5vw,2.5rem); letter-spacing: -.04em; line-height: 1.2; }
+    .cta-panel p { max-width: 660px; margin: 0; color: #efffff; }
+    .cta-actions { display: grid; gap: 10px; position: relative; z-index: 1; }
+    .footer { background: #081c34; color: #b2c9dd; padding: 55px 0 25px; }
+    .footer-main { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 50px; margin-bottom: 40px; }
+    .footer h3 { margin: 0 0 13px; font-size: .99rem; color: white; }
+    .footer p { font-size: .88rem; max-width: 440px; }
+    .footer a { display: block; color: #c3dbed; text-decoration: none; margin: 10px 0; font-size: .88rem; }
+    .footer a:hover { color: #fff; text-decoration: underline; }
+    .footer-bottom { border-top: 1px solid #ffffff21; padding-top: 22px; display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; font-size: .81rem; }
+    .footer-bottom a { display: inline; margin: 0; }
+
+    @media (max-width: 1050px) {
+      .hero-grid { grid-template-columns: minmax(0,1fr) minmax(330px,.88fr); gap: 25px; }
+      .hero h1 { font-size: clamp(2.55rem,5vw,4rem); }
+      .hero-art { transform: scale(.92); transform-origin: center; }
+      .projects-grid { gap: 15px; }
+      .project-body { padding: 24px 19px 21px; }
+      .project-banner { padding: 19px; }
+      .nav { gap: 13px; }
+      .nav a:not(.btn) { font-size: .83rem; }
+    }
+    @media (max-width: 850px) {
+      .section { padding: 75px 0; }
+      .menu-toggle { display: inline-block; }
+      .header-inner { min-height: 76px; }
+      .nav { display: none; position: absolute; top: 100%; left: 0; width: 100%; padding: 15px 24px 22px; flex-direction: column; align-items: stretch; gap: 0; background: white; border-bottom: 1px solid #dce8f2; box-shadow: 0 17px 26px #0c244619; }
+      .nav.open { display: flex; }
+      .nav a { padding: 11px; }
+      .nav .btn { margin-top: 10px; }
+      .hero-grid, .vision-layout, .ethical-grid { grid-template-columns: 1fr; gap: 36px; }
+      .hero { padding: 80px 0 65px; }
+      .hero-art { min-height: 380px; max-width: 540px; margin: auto; width: 100%; }
+      .art-main { transform: none; }
+      .projects-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+      .projects-grid .project-card:last-child { grid-column: 1 / -1; }
+      .step-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
+      .audience-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+      .about-grid { grid-template-columns: 260px 1fr; gap: 35px; }
+      .cta-panel { grid-template-columns: 1fr; padding: 40px; }
+      .cta-actions { display: flex; flex-wrap: wrap; }
+    }
+    @media (max-width: 600px) {
+      .container { width: min(var(--container), calc(100% - 34px)); }
+      .section { padding: 65px 0; }
+      .hero { padding: 67px 0 54px; }
+      .hero h1 { font-size: clamp(2.35rem,10vw,3.3rem); }
+      .hero-copy > p { font-size: 1.04rem; }
+      .hero-art { min-height: 330px; }
+      .art-main { padding: 14px; }
+      .art-bubble { font-size: .69rem; }
+      .bubble-two { left: 0; bottom: -7px; }
+      .bubble-one { right: -3px; top: 8px; }
+      .vision-layout, .domain-grid, .projects-grid, .audience-grid, .about-grid, .footer-main { grid-template-columns: 1fr; }
+      .projects-grid .project-card:last-child { grid-column: auto; }
+      .values { gap: 10px; }
+      .value { padding: 17px 13px; }
+      .domain { padding: 27px; }
+      .step-grid { grid-template-columns: 1fr 1fr; }
+      .step { padding: 19px 15px; }
+      .founder-card { max-width: 340px; }
+      .cta-panel { padding: 30px 24px; }
+      .cta-actions { display: grid; }
+      .hero-actions .btn { width: 100%; }
+      .footer-main { gap: 22px; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *,*::before,*::after{transition: none !important; animation: none !important;} }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu principal</a>
+  <header class="header">
+    <div class="container header-inner">
+      <a class="brand" href="#accueil" aria-label="BOOTO AI & DATA INNOVATION LAB, accueil">
+        <span class="brand-mark" aria-hidden="true">B.</span>
+        <span><span class="brand-name">BOOTO AI &amp; DATA</span><span class="brand-sub">INNOVATION LAB</span></span>
+      </a>
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Ouvrir le menu" aria-controls="navigation" aria-expanded="false">☰</button>
+      <nav class="nav" id="navigation" aria-label="Navigation principale">
+        <a href="#vision">Notre vision</a>
+        <a href="#domaines">Nos domaines</a>
+        <a href="#projets">Les projets</a>
+        <a href="#methode">Notre méthode</a>
+        <a href="#fondateur">À propos</a>
+        <a class="btn btn-small btn-primary" href="https://github.com/Junior-BOOTO" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenu">
+    <section class="hero" id="accueil" aria-labelledby="hero-title">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <span class="eyebrow">Laboratoire indépendant · Éducation &amp; technologie</span>
+          <h1 id="hero-title">Des idées pédagogiques aux <span class="gradient-text">prototypes technologiques.</span></h1>
+          <p><strong>BOOTO AI &amp; DATA INNOVATION LAB</strong> explore l’intelligence artificielle au service des langues, de l’apprentissage et de l’analyse des données. Un espace où l’ingénierie pédagogique rencontre Python, la Data Science et le traitement automatique du langage.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#projets">Explorer les 3 projets <span aria-hidden="true">↗</span></a>
+            <a class="btn btn-outline" href="https://github.com/Junior-BOOTO" target="_blank" rel="noopener noreferrer">Découvrir notre GitHub <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="hero-tags" aria-label="Domaines du laboratoire">
+            <span class="tag">IA pédagogique &amp; FLE</span>
+            <span class="tag">Python &amp; Data Science</span>
+            <span class="tag">NLP multilingue</span>
+            <span class="tag">Prototypes documentés</span>
+          </div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="art-bubble bubble-one">◆ IA &amp; apprentissage</div>
+          <div class="art-main">
+            <div class="art-top"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="title">BOOTO / Innovation overview</span></div>
+            <div class="art-metric"><b>3 projets documentés</b><small>Recherche appliquée ↗</small></div>
+            <div class="art-rows">
+              <div class="art-row"><div class="art-symbol">◉</div><div class="art-label"><strong>BOOTO NLP LAB</strong><span>Analyse de textes · FR / EN / ES</span></div><div class="art-progress"><span style="width:72%"></span></div></div>
+              <div class="art-row"><div class="art-symbol teal">✦</div><div class="art-label"><strong>FLE Adaptive AI</strong><span>Différenciation · Niveau A1</span></div><div class="art-progress"><span style="width:64%;background:#0baea0"></span></div></div>
+              <div class="art-row"><div class="art-symbol purple">♫</div><div class="art-label"><strong>PhonoFLE AI</strong><span>Phonétique · /y/ et /u/</span></div><div class="art-progress"><span style="width:56%;background:#8665db"></span></div></div>
+            </div>
+            <div class="art-bottom">✓ Code disponible &nbsp;·&nbsp; ✓ Documentation &nbsp;·&nbsp; ✓ Tests techniques</div>
+          </div>
+          <div class="art-bubble bubble-two">✦ Python · NLP · FLE</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section intro-band" id="vision" aria-labelledby="vision-title">
+      <div class="container vision-layout">
+        <div>
+          <span class="eyebrow">Notre vision</span>
+          <h2 class="h-section" id="vision-title">Innover à la rencontre de l’<span class="gradient-text">intelligence humaine</span> et du numérique.</h2>
+          <p>Nous considérons l’intelligence artificielle comme un ensemble de technologies capables de soutenir le travail humain, d’enrichir l’analyse et d’ouvrir de nouvelles possibilités de conception.</p>
+          <p>Dans le domaine éducatif, nous explorons des outils qui accompagnent les enseignants dans l’identification des besoins, la différenciation et la création d’activités. Dans celui des données, nous cherchons à transformer des informations brutes en analyses structurées, compréhensibles et exploitables.</p>
+          <p><strong>Notre objectif :</strong> construire des solutions utiles, explicables et progressivement améliorées grâce aux tests et à l’évaluation.</p>
+        </div>
+        <div class="values" aria-label="Les principes fondamentaux du laboratoire">
+          <div class="value"><span class="icon" aria-hidden="true">◎</span><strong>Rigueur</strong><span>Des objectifs et des méthodes clairement définis.</span></div>
+          <div class="value"><span class="icon" aria-hidden="true">✧</span><strong>Expérimentation</strong><span>Des prototypes concrets, testés et perfectibles.</span></div>
+          <div class="value"><span class="icon" aria-hidden="true">◈</span><strong>Transparence</strong><span>Des résultats interprétés avec leurs limites.</span></div>
+          <div class="value"><span class="icon" aria-hidden="true">♡</span><strong>Responsabilité</strong><span>Respect des utilisateurs et de leurs données.</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section domains" id="domaines" aria-labelledby="domaines-title">
+      <div class="container">
+        <div class="section-head"><span class="eyebrow">Deux pôles complémentaires</span><h2 class="h-section" id="domaines-title">Deux domaines. <span class="gradient-text">Une même ambition.</span></h2><p>Nos travaux articulent une expertise pédagogique et un parcours de développement de compétences techniques, sans confondre leurs usages ni leurs critères de réussite.</p></div>
+        <div class="domain-grid">
+          <article class="domain"><span class="domain-no">PÔLE 01 · IA PÉDAGOGIQUE</span><h3>Intelligence artificielle &amp; ingénierie pédagogique</h3><p>Explorer la différenciation pédagogique, l’évaluation formative, la phonétique et la conception de ressources en français langue étrangère, avec une supervision constante de l’enseignant.</p><a href="https://github.com/Junior-BOOTO/portfolio-fle" target="_blank" rel="noopener noreferrer">Explorer le portfolio FLE <span aria-hidden="true">↗</span></a></article>
+          <article class="domain"><span class="domain-no">PÔLE 02 · DATA &amp; NLP</span><h3>Python, Data Science &amp; traitement automatique des langues</h3><p>Étudier la préparation de données, leur classification, l’extraction d’informations et la visualisation des résultats, avec une attention portée au code, aux tests et à la reproductibilité.</p><a href="https://github.com/Junior-BOOTO/python.skills" target="_blank" rel="noopener noreferrer">Explorer le portfolio Python <span aria-hidden="true">↗</span></a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section projects" id="projets" aria-labelledby="projets-title">
+      <div class="container">
+        <div class="section-head"><span class="eyebrow">Projets phares · Version 1</span><h2 class="h-section" id="projets-title">Trois projets, <span class="gradient-text">trois terrains d’innovation.</span></h2><p>Chaque réalisation part d’un besoin concret et comporte du code, une documentation technique ainsi que des limites explicites. Les démonstrations HTML des deux projets FLE sont incluses dans le pack de cette page.</p></div>
+        <div class="projects-grid">
+          <article class="project-card" aria-labelledby="nlp-title">
+            <div class="project-banner"><div class="banner-top"><div class="banner-icon" aria-hidden="true">🧠</div><span class="pill-status">Prototype technique</span></div><strong>01 / Traitement des langues</strong></div>
+            <div class="project-body"><h3 id="nlp-title">BOOTO NLP LAB</h3><div class="project-sub">Analyse multilingue · FR / EN / ES</div><p>Un prototype Python conçu pour analyser des textes : détection des langues, classification thématique, mots-clés, similarité lexicale et export des résultats.</p>
+              <ul class="project-facts"><li>300 textes synthétiques de démonstration</li><li>Éducation, technologie et environnement</li><li>TF-IDF, classification supervisée et interface Streamlit</li></ul>
+              <div class="project-note"><strong>État actuel :</strong> code et tests disponibles ; performances sur données indépendantes à valider. L’application publique n’est pas encore confirmée.</div>
+              <div class="card-actions"><a class="btn btn-primary" href="https://github.com/Junior-BOOTO/python.skills/tree/main/booto-nlp-lab" target="_blank" rel="noopener noreferrer">Voir le projet sur GitHub <span aria-hidden="true">↗</span></a><a class="btn btn-outline" href="https://github.com/Junior-BOOTO/python.skills/blob/main/booto-nlp-lab/README.md" target="_blank" rel="noopener noreferrer">Comment lancer la démo locale <span aria-hidden="true">↗</span></a></div>
+            </div>
+          </article>
+          <article class="project-card" aria-labelledby="adaptive-title">
+            <div class="project-banner"><div class="banner-top"><div class="banner-icon" aria-hidden="true">📘</div><span class="pill-status">Démo HTML incluse</span></div><strong>02 / Différenciation FLE</strong></div>
+            <div class="project-body"><h3 id="adaptive-title">BOOTO FLE Adaptive AI</h3><div class="project-sub">Français langue étrangère · A1 · PYP</div><p>Un prototype d’évaluation formative autour de « Ma journée typique », qui relie les difficultés observées à des micro-activités personnalisées et justifiées.</p>
+              <ul class="project-facts"><li>12 questions sur 4 domaines linguistiques</li><li>12 profils fictifs pour un tableau de bord enseignant</li><li>Recommandations fondées sur des règles explicites</li></ul>
+              <div class="project-note"><strong>État actuel :</strong> prototype pédagogique. Aucun modèle de Machine Learning ni gain d’apprentissage réel démontré ; l’enseignant garde la responsabilité de l’évaluation orale.</div>
+              <div class="card-actions"><a class="btn btn-teal" href="demos/adaptive.html" target="_blank" rel="noopener noreferrer">Essayer la démonstration <span aria-hidden="true">↗</span></a><a class="btn btn-outline" href="https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-adaptive-ai" target="_blank" rel="noopener noreferrer">Code et documentation GitHub <span aria-hidden="true">↗</span></a></div>
+            </div>
+          </article>
+          <article class="project-card" aria-labelledby="phono-title">
+            <div class="project-banner"><div class="banner-top"><div class="banner-icon" aria-hidden="true">🎧</div><span class="pill-status">Démo HTML incluse</span></div><strong>03 / Phonétique FLE</strong></div>
+            <div class="project-body"><h3 id="phono-title">PhonoFLE AI</h3><div class="project-sub">Discrimination auditive · /y/ et /u/</div><p>Des activités pour mieux entendre les oppositions « u » et « ou » : paires minimales, écoute, rétroaction, aides articulatoires et observation orale de l’enseignant.</p>
+              <ul class="project-facts"><li>11 paires minimales et un quiz de 10 questions</li><li>Interface en français et en espagnol</li><li>Synthèse vocale dépendante du navigateur</li></ul>
+              <div class="project-note"><strong>État actuel :</strong> discrimination auditive, sans reconnaissance de la parole ni notation automatique de la prononciation. Validation phonétique en classe à réaliser.</div>
+              <div class="card-actions"><a class="btn btn-primary" href="demos/phonofle.html" target="_blank" rel="noopener noreferrer">Essayer la démonstration <span aria-hidden="true">↗</span></a><a class="btn btn-outline" href="https://github.com/Junior-BOOTO/python.skills/tree/main/phonofle-ai" target="_blank" rel="noopener noreferrer">Code et documentation GitHub <span aria-hidden="true">↗</span></a></div>
+            </div>
+          </article>
+        </div>
+        <div class="project-disclaimer" role="note"><strong>Note de transparence :</strong> les trois projets sont des prototypes. Les démonstrations utilisent des données fictives ou synthétiques et ne constituent ni des applications certifiées ni des évaluations pédagogiques validées en conditions réelles. Les deux boutons « Essayer la démonstration » ouvrent les fichiers HTML inclus dans ce dossier : leur fonctionnement en ligne suppose que ces fichiers soient hébergés avec la page.</div>
+      </div>
+    </section>
+
+    <section class="section method" id="methode" aria-labelledby="method-title">
+      <div class="container"><div class="section-head"><span class="eyebrow">Notre méthode</span><h2 class="h-section" id="method-title">De l’idée au <span class="gradient-text">prototype documenté.</span></h2><p>La valeur d’un projet ne repose pas uniquement sur ses algorithmes, mais aussi sur la clarté du besoin, la qualité des choix et la possibilité d’examiner ses résultats.</p></div>
+        <div class="step-grid">
+          <article class="step"><span class="step-num">01</span><h3>Comprendre</h3><p>Définir le besoin et les utilisateurs concernés.</p></article>
+          <article class="step"><span class="step-num">02</span><h3>Concevoir</h3><p>Établir les objectifs, les fonctions et les critères de réussite.</p></article>
+          <article class="step"><span class="step-num">03</span><h3>Développer</h3><p>Construire un prototype clair et évolutif.</p></article>
+          <article class="step"><span class="step-num">04</span><h3>Tester</h3><p>Vérifier le comportement et documenter les limites.</p></article>
+          <article class="step"><span class="step-num">05</span><h3>Améliorer</h3><p>Évaluer de nouveaux contextes et corriger les faiblesses.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section audience" id="publics" aria-labelledby="publics-title">
+      <div class="container"><div class="section-head"><span class="eyebrow">Un laboratoire à explorer</span><h2 class="h-section" id="publics-title">À qui s’adressent <span class="gradient-text">nos travaux&nbsp;?</span></h2><p>Un espace de découverte et de réflexion pour celles et ceux qui souhaitent mieux comprendre les usages concrets du numérique éducatif et des technologies de données.</p></div>
+        <div class="audience-grid">
+          <article class="audience-card"><span class="audience-icon" aria-hidden="true">📚</span><h3>Enseignants de langues</h3><p>Explorer des exemples de remédiation, des indicateurs « Je peux… » et des exercices à adapter après validation pédagogique.</p><a href="https://github.com/Junior-BOOTO/portfolio-fle" target="_blank" rel="noopener noreferrer">Portfolio FLE <span aria-hidden="true">↗</span></a></article>
+          <article class="audience-card"><span class="audience-icon" aria-hidden="true">📊</span><h3>Étudiants &amp; analystes</h3><p>Étudier la préparation des données, la classification, les corpus de démonstration et les méthodes d’analyse en Python.</p><a href="https://github.com/Junior-BOOTO/python.skills" target="_blank" rel="noopener noreferrer">Portfolio Data Science <span aria-hidden="true">↗</span></a></article>
+          <article class="audience-card"><span class="audience-icon" aria-hidden="true">⌘</span><h3>Développeurs &amp; chercheurs</h3><p>Consulter le code, les tests, l’architecture et les limites méthodologiques des prototypes pour nourrir l’expérimentation.</p><a href="https://github.com/Junior-BOOTO" target="_blank" rel="noopener noreferrer">Ensemble des dépôts <span aria-hidden="true">↗</span></a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section ethical" id="ethique" aria-labelledby="ethique-title">
+      <div class="container ethical-grid">
+        <div><span class="eyebrow">Innovation responsable</span><h2 class="h-section" id="ethique-title">Des prototypes transparents. <span style="color:#7ce0dc">Des résultats vérifiables.</span></h2><p>Nous distinguons les fonctionnalités développées de celles qui restent à construire. Les tests techniques ne sont pas des preuves d’efficacité pédagogique ; les scores expérimentaux ne garantissent pas une performance sur des données réelles.</p><p>La confidentialité, l’explicabilité et la supervision humaine constituent des exigences fondamentales de notre démarche.</p></div>
+        <div class="ethical-items"><div class="ethical-item"><span aria-hidden="true">✓</span><span>Jeux de données de démonstration synthétiques ou fictifs.</span></div><div class="ethical-item"><span aria-hidden="true">✓</span><span>Aucune donnée personnelle réelle d’élèves dans les démonstrations.</span></div><div class="ethical-item"><span aria-hidden="true">✓</span><span>Limites, hypothèses et méthodes documentées sur GitHub.</span></div><div class="ethical-item"><span aria-hidden="true">✓</span><span>L’enseignant reste responsable des décisions pédagogiques.</span></div></div>
+      </div>
+    </section>
+
+    <section class="section" id="fondateur" aria-labelledby="fondateur-title">
+      <div class="container about-grid">
+        <aside class="founder-card" aria-label="Présentation du fondateur"><div class="founder-avatar" aria-hidden="true">JB</div><strong>Junior BOOTO Waba</strong><p>Fondateur · BOOTO AI &amp; DATA INNOVATION LAB</p><p>FLE · Ingénierie pédagogique<br>Python · Data Science</p></aside>
+        <div class="about-copy"><span class="eyebrow">À propos du fondateur</span><h2 class="h-section" id="fondateur-title">Deux parcours, <span class="gradient-text">une même curiosité.</span></h2><p><strong>Junior BOOTO Waba</strong> est enseignant de français langue étrangère et concepteur de ressources pédagogiques. Parallèlement, il développe ses compétences en programmation Python, analyse de données, Machine Learning et intelligence artificielle.</p><p>Ce laboratoire indépendant est né de la rencontre de ces deux parcours. Il constitue un espace de développement professionnel et d’expérimentation, destiné à transformer des idées pédagogiques et technologiques en prototypes concrets et documentés.</p>
+          <div class="actions"><a class="btn btn-primary" href="https://github.com/Junior-BOOTO" target="_blank" rel="noopener noreferrer">Découvrir son GitHub <span aria-hidden="true">↗</span></a><a class="btn btn-outline" href="https://junior-booto-fle.juniorbooto.chatgpt.site" target="_blank" rel="noopener noreferrer">Visiter le site professionnel <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section" aria-labelledby="cta-title">
+      <div class="container"><div class="cta-panel"><div><h2 id="cta-title">L’innovation commence par un besoin réel.</h2><p>Découvrez nos trois réalisations, examinez leurs codes sources et essayez les démonstrations pédagogiques. Un laboratoire de projets en évolution, guidé par la rigueur et l’expérimentation.</p></div><div class="cta-actions"><a class="btn btn-light" href="#projets">Découvrir les projets <span aria-hidden="true">↗</span></a><a class="btn btn-outline-light" href="https://github.com/Junior-BOOTO" target="_blank" rel="noopener noreferrer">Explorer GitHub <span aria-hidden="true">↗</span></a></div></div></div>
+    </section>
+  </main>
+
+  <footer class="footer"><div class="container"><div class="footer-main"><div><h3>BOOTO AI &amp; DATA INNOVATION LAB</h3><p>Des idées pédagogiques aux prototypes technologiques.</p><p>Français langue étrangère · Ingénierie pédagogique · Python · Data Science · NLP · Intelligence artificielle.</p><p>Laboratoire indépendant fondé par Junior BOOTO Waba.</p></div><div><h3>Nos projets</h3><a href="https://github.com/Junior-BOOTO/python.skills/tree/main/booto-nlp-lab" target="_blank" rel="noopener noreferrer">BOOTO NLP LAB ↗</a><a href="https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-adaptive-ai" target="_blank" rel="noopener noreferrer">BOOTO FLE Adaptive AI ↗</a><a href="https://github.com/Junior-BOOTO/python.skills/tree/main/phonofle-ai" target="_blank" rel="noopener noreferrer">PhonoFLE AI ↗</a></div><div><h3>Explorer</h3><a href="#vision">Notre vision</a><a href="#methode">Notre méthode</a><a href="https://github.com/Junior-BOOTO/portfolio-fle" target="_blank" rel="noopener noreferrer">Portfolio FLE ↗</a><a href="https://github.com/Junior-BOOTO/python.skills" target="_blank" rel="noopener noreferrer">Portfolio Python ↗</a></div></div><div class="footer-bottom"><span>© 2026 Junior BOOTO Waba. Tous droits réservés.</span><span>Prototypes expérimentaux · Aucun résultat pédagogique certifié · <a href="#ethique">Nos engagements</a></span></div></div></footer>
+  <script>
+    (() => {
+      const toggle = document.getElementById('menu-toggle');
+      const nav = document.getElementById('navigation');
+      toggle.addEventListener('click', () => {
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', String(!expanded));
+        toggle.setAttribute('aria-label', expanded ? 'Ouvrir le menu' : 'Fermer le menu');
+        nav.classList.toggle('open', !expanded);
+      });
+      nav.addEventListener('click', (event) => {
+        if (event.target.closest('a')) {
+          nav.classList.remove('open');
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.setAttribute('aria-label', 'Ouvrir le menu');
+        }
+      });
+      window.addEventListener('resize', () => {
+        if (window.innerWidth > 850 && nav.classList.contains('open')) {
+          nav.classList.remove('open');
+          toggle.setAttribute('aria-expanded','false');
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
