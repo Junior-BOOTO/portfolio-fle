@@ -14,6 +14,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 | [Paysages naturels · 4e année A1](projets/paysages-naturels-4e-a1/README.md) | Description en binômes et quatre évaluations distinctes avec corrigés. | Séquence conçue ; résultats de classe non documentés. |
 | [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Passage de scores fictifs à une interprétation pédagogique avec Python. | Démonstrateur sur données synthétiques. |
 
+## BOOTO FLE Adaptive AI · Différenciation formative A1
+
+[**Consulter le prototype pédagogique et son code Python**](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-adaptive-ai) : douze questions sur « Ma journée typique » en Grade 4, quatre domaines langagiers, observation orale humaine facultative, recommandations explicables et tableau de bord de douze profils **fictifs**. Les [critères « Je peux… » et les limites éthiques](https://github.com/Junior-BOOTO/python.skills/blob/main/booto-fle-adaptive-ai/docs/ETHIQUE_ET_VALIDATION.md) sont documentés. Prototype à règles (sans ML), **non expérimenté en classe**.
+
 ## Nouveau projet : une mission, trois chemins
 
 [**Ma maison écoresponsable · A1**](projets/ma-maison-ecoresponsable/README.md) : pack illustré de 10 pages, trois fiches différenciées, douze cartes, jeu de rôle et évaluation individuelle. Deux séances de 45 minutes. Projet conçu, à expérimenter.
