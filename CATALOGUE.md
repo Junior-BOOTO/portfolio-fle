@@ -10,6 +10,10 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 - [**Collection de 13 kits de phonétique corrective FLE**](projets/collection-phonetique-fle/README.md) : formation des enseignants, rythme, intonation, sons, remédiation, interaction orale et évaluation A1–A2. [PDF intégral de la collection (13 kits)](Collection_13_Kits_Phonetique_Corrective_FLE_Junior_BOOTO.pdf) disponible ; fichiers individuels PDF/Word à transférer.
 
+## Projet PhonoFLE AI · Discrimination phonétique A1
+
+[**Présentation, ressources, code et prototype interactif**](https://github.com/Junior-BOOTO/python.skills/tree/main/phonofle-ai) : onze paires /y/–/u/, dix écoutes comparatives et une interface français/espagnol. Rétroactions explicites et grille humaine d'observation. Le système ne traite pas la voix de l'apprenant, ne fournit pas de score phonétique automatique et n'a pas été expérimenté en classe.
+
 ## Projet BOOTO FLE Adaptive AI · Grade 4 A1
 
 [**Démonstration, cahier des charges, moteur Python et tests**](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-adaptive-ai) : évaluations formatives de la routine quotidienne (12 QCM, 4 domaines), observation orale par l'enseignant et recommandations explicables de micro-activités. Tableau de bord de 12 profils entièrement fictifs, sans données personnelles réelles. Moteur à règles, pas de Machine Learning ni validation d'efficacité pédagogique sur des élèves.
