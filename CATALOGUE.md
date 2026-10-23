@@ -4,7 +4,7 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## Innovation pédagogique : BOOTO FLE MULTIVERSE 3D
 
-**[Projet 3D Éco-Cité francophone — Grade 5 A1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d)**. Le joueur visite un quartier WebGL, demande des renseignements, choisit de nettoyer une rivière ou planter des arbres et rend compte à la mairie. Deux missions ramifiées, traces formatives et scénarios fictifs, sans données d'élèves. Démonstration autonome et code sur GitHub ; hébergement public à venir.
+**[🎮 Jouer à Éco-Cité 3D sur Render](https://booto-fle-multiverse-3d.onrender.com/)** · [Code source du projet](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d). Le joueur visite un quartier WebGL, demande des renseignements, choisit de nettoyer une rivière ou planter des arbres et rend compte à la mairie. Deux missions ramifiées, traces formatives et scénarios fictifs, sans données d'élèves. Démonstration autonome et code sur GitHub ; site Render déclaré « Live » sur capture le 23 octobre 2026, essais des deux missions à finaliser.
 
 
 ## Collection de projets différenciés
