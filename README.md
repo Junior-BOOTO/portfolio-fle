@@ -5,6 +5,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
+## BOOTO ScanGrade AI V1 · Correction formative FLE A1 (pilote)
+
+**[🧪 Découvrir la V1 de correction et son code](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v1)** : 12 QCM « Ma journée typique » Grade 4, notes proposées puis validées par le professeur, commentaires selon les domaines observés, suivi T1/T2/T3 et export Excel. Cette V1 peut consulter le ZIP de copies fictives issu du scanner V0. **Pas encore de lecture automatisée des écritures manuscrites ni de synchronisation directe Google Sheets** ; déploiement Render V1 indépendant encore à effectuer.
+
 ## BOOTO ScanGrade AI · Numérisation de copies FLE sur tablette — V0
 
 **[📷 Essayer la démo ScanGrade AI sur Render](https://booto-scangrade-ai.onrender.com/)** · [Documentation et code](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai) · Scanner expérimental pour Lenovo Tab M11 : une première photo manuelle, puis détection du changement de feuille et capture automatique si la scène est stable. Classement de pages anonymes, recto-verso et export ZIP/CSV. **La correction des copies par IA, les rapports pédagogiques et le registre trimestriel ne sont pas encore développés dans cette version.** Tests algorithmiques réussis, essais avec la caméra et données réelles non réalisés ; usage limité à des copies fictives.
