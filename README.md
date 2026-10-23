@@ -7,7 +7,7 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## BOOTO ScanGrade AI · Numérisation de copies FLE sur tablette — V0
 
-**[📷 Découvrir le prototype et ses limites](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai)** · Scanner expérimental pour Lenovo Tab M11 : une première photo manuelle, puis détection du changement de feuille et capture automatique si la scène est stable. Classement de pages anonymes, recto-verso et export ZIP/CSV. **La correction des copies par IA, les rapports pédagogiques et le registre trimestriel ne sont pas encore développés dans cette version.** Tests algorithmiques réussis, essais avec la caméra et données réelles non réalisés ; usage limité à des copies fictives.
+**[📷 Essayer la démo ScanGrade AI sur Render](https://booto-scangrade-ai.onrender.com/)** · [Documentation et code](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai) · Scanner expérimental pour Lenovo Tab M11 : une première photo manuelle, puis détection du changement de feuille et capture automatique si la scène est stable. Classement de pages anonymes, recto-verso et export ZIP/CSV. **La correction des copies par IA, les rapports pédagogiques et le registre trimestriel ne sont pas encore développés dans cette version.** Tests algorithmiques réussis, essais avec la caméra et données réelles non réalisés ; usage limité à des copies fictives.
 
 ## BOOTO WORLD LEARNING BRIDGE · Une éducation sans frontières
 
