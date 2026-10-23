@@ -5,6 +5,11 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
+## 🌐 Innovation au-delà du FLE : BOOTO TalentScreen AI
+
+**[💼 Nouveau projet RH : BOOTO TalentScreen AI V0](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai)** — plateforme expérimentale avec critères de poste professionnels, analyse littérale de textes **fictifs et anonymes**, entretiens structurés, suivi manuel des dossiers et exports Excel/CSV/JSON. Projet distinct du portfolio pédagogique FLE, développé au sein de **BOOTO AI & DATA INNOVATION LAB**. **Aucun classement ni décision d'embauche automatisés ; pas encore d'IA prédictive ni d'import PDF/DOCX.** Déploiement Render à faire.
+
+
 ## BOOTO ScanGrade AI V2 · Numérisation et évaluation dans une seule application
 
 **[📱 Essayer ScanGrade AI V2 sur Render](https://booto-scangrade-ai-v2.onrender.com/)** · [Code et guide de sécurité](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v2) — sur Lenovo Tab M11, capturer une série de pages et les consulter directement pour corriger des exercices mixtes : QCM, vrai/faux, réponse courte, identification d'images et question ouverte. Calculs fondés sur un corrigé, **relecture et validation humaine obligatoires**, appréciations par points forts / difficultés / recommandations, registre trimestriel et export Excel. Usage fictif seulement ; pas d'OCR manuscrit, pas d'intelligence artificielle générative, pas de compte scolaire ni Google Sheets connecté. Déploiement Render V2 confirmé « Live » par capture ; essais sur Lenovo Tab M11 encore à réaliser. Les V0 et V1 restent disponibles pour référence.
