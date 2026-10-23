@@ -2,6 +2,10 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+## BOOTO ScanGrade AI V1 — correction formative et registre trimestriel
+
+**[🧪 Ouvrir le pilote V1 sur Render](https://booto-scangrade-ai-v1.onrender.com/)** · [Code et guide](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v1). QCM fictif FLE A1 (12 questions), notes et commentaires fondés sur le corrigé, validation de l'enseignant, suivi T1/T2/T3 et export Excel/CSV. Peut consulter les photos ZIP du scanner V0. **Pas d'OCR manuscrit, pas d'IA générative ni de synchronisation directe Google Sheets.** Déploiement Render « Live » confirmé sur capture du 23 octobre 2026 ; essais sur la tablette encore à terminer.
+
 ## BOOTO ScanGrade AI — Prototype de numérisation sur tablette
 
 **[📷 Ouvrir la V0 sur Render](https://booto-scangrade-ai.onrender.com/)** · [Code et guide](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai). Première version pour Lenovo Tab M11 : numérisation expérimentale des nouvelles pages stabilisées, classement recto-verso et par trimestre, export ZIP/CSV de copies fictives. **Pas de correcteur IA ni de notes automatiques dans cette V0.** Déploiement Render « Live » confirmé par capture le 23 octobre 2026 ; caméra réelle non encore testée.
