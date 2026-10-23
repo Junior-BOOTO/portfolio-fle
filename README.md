@@ -5,6 +5,12 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
+## BOOTO WORLD LEARNING BRIDGE · Une éducation sans frontières
+
+**[Découvrir la démonstration multilingue](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-world-learning-bridge)** — une mission FLE A1 en français, avec consignes adaptées en français, espagnol ou anglais, deux stratégies écologiques et bilan « Je peux… » sous forme de passeport JSON anonyme.
+
+Le mode essentiel permet d'effectuer la mission sans décor. Ce prototype ne mesure pas un niveau CECRL et n'a pas été évalué en classe. Sa maquette SVG constitue une démonstration distincte de BOOTO FLE MULTIVERSE 3D.
+
 ## BOOTO FLE MULTIVERSE 3D · Apprendre en transformant un monde
 
 **[🎮 Jouer à Éco-Cité 3D sur Render](https://booto-fle-multiverse-3d.onrender.com/)** · [Code et documentation](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d) · [Démonstration autonome](https://github.com/Junior-BOOTO/python.skills/blob/main/booto-fle-multiverse-3d/DEMO_AUTONOME.html)
