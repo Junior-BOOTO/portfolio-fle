@@ -5,6 +5,13 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
+## BOOTO FLE MULTIVERSE 3D · Apprendre en transformant un monde
+
+**[Découvrir Éco-Cité francophone, le jeu 3D pédagogique A1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d)** · [Démonstration autonome](https://github.com/Junior-BOOTO/python.skills/blob/main/booto-fle-multiverse-3d/DEMO_AUTONOME.html)
+
+Exploration de quatre zones, dialogues, deux chemins écologiques et bilan « Je peux… ». Première preuve visuelle WebGL fournie par l'auteur ; essais des déplacements et changements de décor encore à compléter. **Jeu publié sur GitHub, pas encore sur Render.**
+
+
 ## Commencer par quatre réalisations
 
 | Projet | Choix de conception et preuves | Statut |
