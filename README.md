@@ -7,7 +7,7 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## 🌐 Innovation au-delà du FLE : BOOTO TalentScreen AI
 
-**[💼 Nouveau projet RH : BOOTO TalentScreen AI V0](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai)** — plateforme expérimentale avec critères de poste professionnels, analyse littérale de textes **fictifs et anonymes**, entretiens structurés, suivi manuel des dossiers et exports Excel/CSV/JSON. Projet distinct du portfolio pédagogique FLE, développé au sein de **BOOTO AI & DATA INNOVATION LAB**. **Aucun classement ni décision d'embauche automatisés ; pas encore d'IA prédictive ni d'import PDF/DOCX.** Déploiement Render à faire.
+**[🌐 Tester le projet RH TalentScreen AI sur Render](https://booto-talentscreen-ai.onrender.com/)** · [Code et limites](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai) — plateforme expérimentale avec critères de poste professionnels, analyse littérale de textes **fictifs et anonymes**, entretiens structurés, suivi manuel des dossiers et exports Excel/CSV/JSON. Projet distinct du portfolio pédagogique FLE, développé au sein de **BOOTO AI & DATA INNOVATION LAB**. **Aucun classement ni décision d'embauche automatisés ; pas encore d'IA prédictive ni d'import PDF/DOCX.** Premier déploiement Render confirmé « Live » le 23 octobre 2026 ; fonctionnement à tester en navigateur.
 
 
 ## BOOTO ScanGrade AI V2 · Numérisation et évaluation dans une seule application
