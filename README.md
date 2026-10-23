@@ -5,6 +5,10 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
+## BOOTO ScanGrade AI V2 · Numérisation et évaluation dans une seule application
+
+**[🧩 Découvrir la V2 unifiée et ses protections](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v2)** — sur Lenovo Tab M11, capturer une série de pages et les consulter directement pour corriger des exercices mixtes : QCM, vrai/faux, réponse courte, identification d'images et question ouverte. Calculs fondés sur un corrigé, **relecture et validation humaine obligatoires**, appréciations par points forts / difficultés / recommandations, registre trimestriel et export Excel. Usage fictif seulement ; pas d'OCR manuscrit, pas d'intelligence artificielle générative, pas de compte scolaire ni Google Sheets connecté. Le déploiement Render de la V2 unifiée est encore à faire ; les V0 et V1 restent disponibles pour référence.
+
 ## BOOTO ScanGrade AI V1 · Correction formative FLE A1 (pilote)
 
 **[🧪 Essayer la correction V1 en ligne](https://booto-scangrade-ai-v1.onrender.com/)** · [Code et documentation](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v1) : 12 QCM « Ma journée typique » Grade 4, notes proposées puis validées par le professeur, commentaires selon les domaines observés, suivi T1/T2/T3 et export Excel. Cette V1 peut consulter le ZIP de copies fictives issu du scanner V0. **Pas encore de lecture automatisée des écritures manuscrites ni de synchronisation directe Google Sheets** ; V1 publiée sur Render (« Live » confirmé par capture), tests réels sur tablette encore à effectuer.
