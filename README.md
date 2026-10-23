@@ -7,9 +7,9 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## BOOTO WORLD LEARNING BRIDGE · Une éducation sans frontières
 
-**[Découvrir la démonstration multilingue](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-world-learning-bridge)** — une mission FLE A1 en français, avec consignes adaptées en français, espagnol ou anglais, deux stratégies écologiques et bilan « Je peux… » sous forme de passeport JSON anonyme.
+**[🌍 Découvrir la plateforme en ligne](https://booto-world-learning-bridge.onrender.com/)** · [Code et documentation sur GitHub](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-world-learning-bridge) — une mission FLE A1 en français, avec consignes adaptées en français, espagnol ou anglais, deux stratégies écologiques et bilan « Je peux… » sous forme de passeport JSON anonyme.
 
-**La V1 relie maintenant le mode essentiel et multilingue à la ville 3D Éco-Cité dans la même page.** Les deux activités alimentent un passeport d'observations commun, exportable/importable en JSON anonyme ; le joueur peut aussi passer d'un parcours 2D guidé à une exploration 3D. Le moteur de jeu existant sur Render n'est pas modifié. Les observations ne certifient aucun niveau CECRL, et l'efficacité pédagogique reste à évaluer en classe.
+**La V1 relie maintenant le mode essentiel et multilingue à la ville 3D Éco-Cité dans la même page.** Les deux activités alimentent un passeport d'observations commun, exportable/importable en JSON anonyme ; le joueur peut aussi passer d'un parcours 2D guidé à une exploration 3D. Le moteur de jeu Multiverse 3D reste indépendant. World Learning Bridge V1 est désormais déployé sur Render (statut « Live » confirmé par capture du propriétaire) ; ses fonctions doivent encore être validées sur l'URL publique. Les observations ne certifient aucun niveau CECRL, et l'efficacité pédagogique reste à évaluer en classe.
 
 ## BOOTO FLE MULTIVERSE 3D · Apprendre en transformant un monde
 
