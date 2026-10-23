@@ -7,9 +7,9 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## BOOTO FLE MULTIVERSE 3D · Apprendre en transformant un monde
 
-**[Découvrir Éco-Cité francophone, le jeu 3D pédagogique A1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d)** · [Démonstration autonome](https://github.com/Junior-BOOTO/python.skills/blob/main/booto-fle-multiverse-3d/DEMO_AUTONOME.html)
+**[🎮 Jouer à Éco-Cité 3D sur Render](https://booto-fle-multiverse-3d.onrender.com/)** · [Code et documentation](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d) · [Démonstration autonome](https://github.com/Junior-BOOTO/python.skills/blob/main/booto-fle-multiverse-3d/DEMO_AUTONOME.html)
 
-Exploration de quatre zones, dialogues, deux chemins écologiques et bilan « Je peux… ». Première preuve visuelle WebGL fournie par l'auteur ; essais des déplacements et changements de décor encore à compléter. **Jeu publié sur GitHub, pas encore sur Render.**
+Exploration de quatre zones, dialogues, deux chemins écologiques et bilan « Je peux… ». Première preuve visuelle WebGL fournie par l'auteur ; essais des déplacements et changements de décor encore à compléter. **Jeu publié sur GitHub et déploiement Render « Live » confirmé par capture.** Les essais des missions sur la version publique restent à compléter.
 
 
 ## Commencer par quatre réalisations
