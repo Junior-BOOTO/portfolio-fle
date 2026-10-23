@@ -2,6 +2,11 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+## Innovation pédagogique : BOOTO FLE MULTIVERSE 3D
+
+**[Projet 3D Éco-Cité francophone — Grade 5 A1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d)**. Le joueur visite un quartier WebGL, demande des renseignements, choisit de nettoyer une rivière ou planter des arbres et rend compte à la mairie. Deux missions ramifiées, traces formatives et scénarios fictifs, sans données d'élèves. Démonstration autonome et code sur GitHub ; hébergement public à venir.
+
+
 ## Collection de projets différenciés
 
 [**15 projets FLE A1–A2 du primaire aux cours privés**](projets/projets-fle-differencies/README.md) : guide illustré de 55 pages, procédures, trois parcours, supports de compréhension et critères « Je peux… ». PDF et Word disponibles. Guide conçu, à expérimenter.
