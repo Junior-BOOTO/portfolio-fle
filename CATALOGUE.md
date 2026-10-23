@@ -2,6 +2,10 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+## BOOTO WORLD LEARNING BRIDGE V1 — Plateforme éducative multilingue
+
+**[🌍 Accéder à la démonstration publique sur Render](https://booto-world-learning-bridge.onrender.com/)** · [Code et documentation](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-world-learning-bridge). Une mission FLE A1 avec accompagnement FR/EN/ES, jeu 3D intégré et passeport JSON anonyme partagé. Render a confirmé « Live » sur la capture du propriétaire le 23 octobre 2026 ; essais fonctionnels sur l'URL et validation pédagogique restent à effectuer.
+
 ## Innovation pédagogique : BOOTO FLE MULTIVERSE 3D
 
 **[🎮 Jouer à Éco-Cité 3D sur Render](https://booto-fle-multiverse-3d.onrender.com/)** · [Code source du projet](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-fle-multiverse-3d). Le joueur visite un quartier WebGL, demande des renseignements, choisit de nettoyer une rivière ou planter des arbres et rend compte à la mairie. Deux missions ramifiées, traces formatives et scénarios fictifs, sans données d'élèves. Démonstration autonome et code sur GitHub ; site Render déclaré « Live » sur capture le 23 octobre 2026, essais des deux missions à finaliser.
