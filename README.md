@@ -7,7 +7,7 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## BOOTO ScanGrade AI V1 · Correction formative FLE A1 (pilote)
 
-**[🧪 Découvrir la V1 de correction et son code](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v1)** : 12 QCM « Ma journée typique » Grade 4, notes proposées puis validées par le professeur, commentaires selon les domaines observés, suivi T1/T2/T3 et export Excel. Cette V1 peut consulter le ZIP de copies fictives issu du scanner V0. **Pas encore de lecture automatisée des écritures manuscrites ni de synchronisation directe Google Sheets** ; déploiement Render V1 indépendant encore à effectuer.
+**[🧪 Essayer la correction V1 en ligne](https://booto-scangrade-ai-v1.onrender.com/)** · [Code et documentation](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-scangrade-ai-v1) : 12 QCM « Ma journée typique » Grade 4, notes proposées puis validées par le professeur, commentaires selon les domaines observés, suivi T1/T2/T3 et export Excel. Cette V1 peut consulter le ZIP de copies fictives issu du scanner V0. **Pas encore de lecture automatisée des écritures manuscrites ni de synchronisation directe Google Sheets** ; V1 publiée sur Render (« Live » confirmé par capture), tests réels sur tablette encore à effectuer.
 
 ## BOOTO ScanGrade AI · Numérisation de copies FLE sur tablette — V0
 
