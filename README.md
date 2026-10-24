@@ -6,9 +6,9 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
 
-## 🌐 Innovation RH — BOOTO TalentScreen AI V1
+## 🌐 Innovation RH — BOOTO TalentScreen AI V1.1
 
-**[🌐 Essayer BOOTO TalentScreen V1 sur Render](https://booto-talentscreen-ai-v1.onrender.com/)** · [Code et documentation V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1) — pilote séparé de la V0 Render : DOCX texte analysé localement, PDF ouvert en lecture visuelle sans extraction, recherche par dossier/étape, tableaux de bord et exports, contrôle humain permanent. Données 100 % fictives ; **ni IA générative ni présélection algorithmique**. Code et tests publiés sur GitHub ; premier déploiement V1 « Live » confirmé par capture le 23 octobre 2026. Tests sur navigateur à compléter.
+**[🌐 Essayer BOOTO TalentScreen V1 sur Render](https://booto-talentscreen-ai-v1.onrender.com/)** · [Code et documentation V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1) — pilote séparé de la V0 Render : DOCX texte analysé localement, PDF ouvert en lecture visuelle sans extraction, recherche par dossier/étape, tableaux de bord et exports, contrôle humain permanent. Données 100 % fictives ; **ni IA générative ni présélection algorithmique**. Code V1.1 publié dans la même application : vérification manuelle par compétence, rapports individuels imprimables, journal local et classeur à cinq feuilles. 21 tests Node et scénario local réussis ; la V1 a été éprouvée en ligne par le propriétaire avec DOCX fictif D004 et Excel. Actualisation Render de V1.1 à vérifier.
 
 ## 🌐 Innovation au-delà du FLE : BOOTO TalentScreen AI
 
