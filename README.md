@@ -5,6 +5,11 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
+
+## 🌐 Innovation RH — BOOTO TalentScreen AI V1
+
+**[🗂️ V1 : revue documentaire et suivi RH responsables](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1)** — pilote séparé de la V0 Render : DOCX texte analysé localement, PDF ouvert en lecture visuelle sans extraction, recherche par dossier/étape, tableaux de bord et exports, contrôle humain permanent. Données 100 % fictives ; **ni IA générative ni présélection algorithmique**. Code et tests publiés sur GitHub ; déploiement V1 en attente.
+
 ## 🌐 Innovation au-delà du FLE : BOOTO TalentScreen AI
 
 **[🌐 Tester le projet RH TalentScreen AI sur Render](https://booto-talentscreen-ai.onrender.com/)** · [Code et limites](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai) — plateforme expérimentale avec critères de poste professionnels, analyse littérale de textes **fictifs et anonymes**, entretiens structurés, suivi manuel des dossiers et exports Excel/CSV/JSON. Projet distinct du portfolio pédagogique FLE, développé au sein de **BOOTO AI & DATA INNOVATION LAB**. **Aucun classement ni décision d'embauche automatisés ; pas encore d'IA prédictive ni d'import PDF/DOCX.** Premier déploiement Render confirmé « Live » le 23 octobre 2026 ; fonctionnement à tester en navigateur.
