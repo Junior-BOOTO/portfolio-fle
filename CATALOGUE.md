@@ -2,6 +2,11 @@
 
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
+
+## BOOTO TalentScreen AI V1 — Revue documentaire RH locale
+
+**[🗂️ Découvrir TalentScreen AI V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1)** — consultation de DOCX (texte extrait sur navigateur), PDF en lecture visuelle seulement, filtre des dossiers fictifs, pipeline manuel et Excel. Tests automatisés de logique et scénario browser réussis localement ; aucun score ni décision de recrutement automatique. La V0 Render reste inchangée, la V1 n'est pas encore déployée.
+
 ## BOOTO TalentScreen AI — gestion RH responsable (prototype V0)
 
 **[🌐 Essayer BOOTO TalentScreen AI sur Render](https://booto-talentscreen-ai.onrender.com/)** · [Code et guide](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai). Premier projet hors éducation du laboratoire : fiche de poste, compétences explicites, dossiers fictifs, extraits professionnels à vérifier, entretiens structurés, suivi manuel et exports XLSX/CSV/JSON. Dix tests automatisés réussis localement, export Excel structurellement vérifié. **Pas de modèle IA générative, de score, classement ou rejet de candidature**, pas d'import PDF/DOCX ni de stockage institutionnel. Réservé à la démonstration : premier déploiement Render « Live » confirmé par capture le 23 octobre 2026 ; essais interactifs en navigateur encore à réaliser.
