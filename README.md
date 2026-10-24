@@ -8,7 +8,7 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 
 ## 🌐 Innovation RH — BOOTO TalentScreen AI V1
 
-**[🗂️ V1 : revue documentaire et suivi RH responsables](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1)** — pilote séparé de la V0 Render : DOCX texte analysé localement, PDF ouvert en lecture visuelle sans extraction, recherche par dossier/étape, tableaux de bord et exports, contrôle humain permanent. Données 100 % fictives ; **ni IA générative ni présélection algorithmique**. Code et tests publiés sur GitHub ; déploiement V1 en attente.
+**[🌐 Essayer BOOTO TalentScreen V1 sur Render](https://booto-talentscreen-ai-v1.onrender.com/)** · [Code et documentation V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1) — pilote séparé de la V0 Render : DOCX texte analysé localement, PDF ouvert en lecture visuelle sans extraction, recherche par dossier/étape, tableaux de bord et exports, contrôle humain permanent. Données 100 % fictives ; **ni IA générative ni présélection algorithmique**. Code et tests publiés sur GitHub ; premier déploiement V1 « Live » confirmé par capture le 23 octobre 2026. Tests sur navigateur à compléter.
 
 ## 🌐 Innovation au-delà du FLE : BOOTO TalentScreen AI
 
