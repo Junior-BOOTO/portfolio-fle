@@ -5,7 +5,7 @@ Ce dépôt présente des versions publiques de mes programmes, activités et pro
 
 ## BOOTO TalentScreen AI V1 — Revue documentaire RH locale
 
-**[🗂️ Découvrir TalentScreen AI V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1)** — consultation de DOCX (texte extrait sur navigateur), PDF en lecture visuelle seulement, filtre des dossiers fictifs, pipeline manuel et Excel. Tests automatisés de logique et scénario browser réussis localement ; aucun score ni décision de recrutement automatique. La V0 Render reste inchangée, la V1 n'est pas encore déployée.
+**[🌐 Essayer TalentScreen AI V1 sur Render](https://booto-talentscreen-ai-v1.onrender.com/)** · [Code V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1) — consultation de DOCX (texte extrait sur navigateur), PDF en lecture visuelle seulement, filtre des dossiers fictifs, pipeline manuel et Excel. Tests automatisés de logique et scénario browser réussis localement ; aucun score ni décision de recrutement automatique. La V0 Render reste inchangée ; V1 Render « Live » confirmé par capture le 23 octobre 2026, tests utilisateurs restants.
 
 ## BOOTO TalentScreen AI — gestion RH responsable (prototype V0)
 
