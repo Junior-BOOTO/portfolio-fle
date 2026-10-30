@@ -49,3 +49,10 @@ Le 8 octobre 2026, j’ai réussi la formation de 3 heures **« Découverte de l
 **Application dans mon portfolio :** [collection de 13 kits de phonétique corrective FLE](projets/collection-phonetique-fle/README.md), avec fiches de formation et activités A1–A2. Ces kits sont des productions pédagogiques distinctes de l’attestation, dont l’obtention ne constitue pas à elle seule une qualification d’expert en méthode verbo-tonale.
 
 **Attestation originale :** fichier PDF fourni et vérifié ; son transfert vers le dépôt GitHub reste à faire.
+
+
+## BrevetAI — niveau découverte · 30 octobre 2026
+
+**Université Paris-Saclay · Badge de réussite délivré par France Université Numérique.** Notions fondamentales : algorithme, modèle et apprentissage. Enjeux sociétaux, environnementaux, légaux, éthiques et scientifiques de l’intelligence artificielle.
+
+[Consulter le badge vérifiable](https://openbadgefactory.com/obv3/credentials/85afcd05082603afd13a151c43964d89e2f57052).
