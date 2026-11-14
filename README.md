@@ -6,6 +6,13 @@ Je conçois des activités où les apprenants utilisent le français pour accomp
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [Profil et CV](https://github.com/Junior-BOOTO) · [English profile](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/README.en.md) · [Catalogue complet](CATALOGUE.md) · [Python et données](https://github.com/Junior-BOOTO/python.skills)
 
 
+## Contrôles illustrés FLE selon le curriculum
+
+**30 fiches d'une page · Grades 1 à 5 · A1–A2** : une fiche par unité, trois exercices courts, petites illustrations et critères « Je peux… ». Corrigés séparés à la fin du document.
+
+[Ouvrir le dossier](projets/controles-illustres-curriculum/README.md) · [Consulter le PDF](projets/controles-illustres-curriculum/Controles_Curriculum_Grades1a5_30_Fiches.pdf) · [Voir sur le site](https://junior-booto-fle.juniorbooto.chatgpt.site/controles-illustres-curriculum.html)
+
+
 ## 🌐 Innovation RH — BOOTO TalentScreen AI V1.1
 
 **[🌐 Essayer BOOTO TalentScreen V1 sur Render](https://booto-talentscreen-ai-v1.onrender.com/)** · [Code et documentation V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1) — pilote séparé de la V0 Render : DOCX texte analysé localement, PDF ouvert en lecture visuelle sans extraction, recherche par dossier/étape, tableaux de bord et exports, contrôle humain permanent. Données 100 % fictives ; **ni IA générative ni présélection algorithmique**. Code V1.1 publié dans la même application : vérification manuelle par compétence, rapports individuels imprimables, journal local et classeur à cinq feuilles. 21 tests Node et scénario local réussis ; la V1 a été éprouvée en ligne par le propriétaire avec DOCX fictif D004 et Excel. Actualisation Render de V1.1 à vérifier.

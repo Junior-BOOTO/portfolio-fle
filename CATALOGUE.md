@@ -3,6 +3,13 @@
 Ce dépôt présente des versions publiques de mes programmes, activités et projets pour l'enseignement du français langue étrangère. Les pages sont adaptées pour être consultées et réutilisées sans données d'élèves, images de manuels ou documents internes de l'établissement.
 
 
+## Contrôles illustrés FLE selon le curriculum
+
+**30 fiches d'une page · Grades 1 à 5 · A1–A2** : une fiche par unité, trois exercices courts, petites illustrations et critères « Je peux… ». Corrigés séparés à la fin du document.
+
+[Ouvrir le dossier](projets/controles-illustres-curriculum/README.md) · [Consulter le PDF](projets/controles-illustres-curriculum/Controles_Curriculum_Grades1a5_30_Fiches.pdf) · [Voir sur le site](https://junior-booto-fle.juniorbooto.chatgpt.site/controles-illustres-curriculum.html)
+
+
 ## BOOTO TalentScreen AI V1.1 — Dossiers fictifs et revue humaine
 
 **[🌐 Essayer TalentScreen AI V1 sur Render](https://booto-talentscreen-ai-v1.onrender.com/)** · [Code V1](https://github.com/Junior-BOOTO/python.skills/tree/main/booto-talentscreen-ai-v1) — consultation de DOCX (texte extrait sur navigateur), PDF en lecture visuelle seulement, filtre des dossiers fictifs, pipeline manuel et Excel. Tests automatisés de logique et scénario browser réussis localement ; aucun score ni décision de recrutement automatique. L'amélioration V1.1 intègre vérifications humaines par critère, rapport individuel imprimable, journal local et Excel cinq feuilles. 21 tests Node et un scénario navigateur local réussis. La V0 Render reste inchangée ; les principaux scénarios V1 ont été éprouvés par le propriétaire, actualisation de V1.1 à confirmer.
