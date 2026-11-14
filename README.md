@@ -127,3 +127,7 @@ Les dossiers d’assistants publient une documentation et parfois un exemple de 
 4. Vérifier les droits de chaque ressource avant réutilisation : aucune licence générale n’est actuellement définie.
 
 [Retour d’expérimentation en classe](templates/retour-experimentation-classe.md) · [Conditions de réutilisation](REUTILISATION.md) · [Modèle de README FLE](templates/README-FLE.md) · [Modèle pour un GPT](templates/README-GPT.md) · [Organisation et audit](https://github.com/Junior-BOOTO/Junior-BOOTO/blob/main/docs/audit-portfolio-2026-10-08.md)
+
+## Collection FLE PYP illustrée — Grades 1 à 5
+
+[Consulter les 30 unités et les fiches enseignant/apprenant](projets/collection-fle-pyp-illustree/README.md) · [Accès sur le site](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/collection-fle-pyp-illustree/)
