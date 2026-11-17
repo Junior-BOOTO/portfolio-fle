@@ -138,3 +138,8 @@ Les dossiers d’assistants publient une documentation et parfois un exemple de 
 ## Collection FLE PYP illustrée — Grades 1 à 5
 
 [Consulter les 30 unités et les fiches enseignant/apprenant](projets/collection-fle-pyp-illustree/README.md) · [Accès sur le site](https://junior-booto-fle.juniorbooto.chatgpt.site/projets/collection-fle-pyp-illustree/)
+
+
+## Empreintes sonores
+
+[Laboratoire de prononciation FLE A1](projets/empreintes-sonores/README.md) : six séances, guide enseignant, carnet illustré, diagnostic, portfolio sonore et studio local d’enregistrement. PDF et Word téléchargeables séparément. Statut : dispositif conçu, à expérimenter. Scripts modèles à enregistrer ; aucun MP3 modèle fourni.
